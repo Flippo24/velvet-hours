@@ -41,3 +41,7 @@ npm run tauri:dev
 ## Figurengestaltung
 
 Die Character Bible dokumentiert Name, Aussehen, Accessoires, Kernoutfits, vier Gesichtsausdrücke, Prompt-Anker und Drift-Regeln. Die Referenzbilder sind der primäre Anker für identitätsstabile spätere Szenen. Generative Ergebnisse sind nicht pixelidentisch garantiert.
+## Hinweis zu den Originalgrafiken
+
+Die 14 kanonischen PNG-Referenzbilder konnten über die GitHub-Dateischnittstelle noch nicht übertragen werden. Im Repository stehen bereits die 14 Charakterprofile und Prompt-Packs sowie das Bildmanifest unter `assets/reference/characters/README.md`. Das vollständige Projektarchiv einschließlich der PNG-Originale ist separat in der Unterhaltung abrufbar und muss zum vollständigen Asset-Import in das Repository nachgetragen werden.
+
