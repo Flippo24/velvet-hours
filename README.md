@@ -12,14 +12,14 @@ Plattformübergreifendes 18+-2D-Management- und Visual-Novel-Spiel. Der erste sp
 - `src/index.template.html`, `build.py`: reproduzierbare Standalone-Build-Generierung
 - `web/index.html`: standalone spielbarer Build
 - `src-tauri/`: vorbereitetes Tauri-2-Grundgerüst, noch nicht nativ getestet
-- `docs/characters/`, `data/characters/`: 14 Charakterbögen und maschinenlesbare Prompt-Packs
+- `docs/characters/`, `data/characters/`: 30 Charakterprofile und maschinenlesbare Prompt-Packs
 - `assets/reference/characters/`: kanonische Figuren-Referenzbilder
 - `docs/style/`, `docs/prompting/`: Stilbibel und Promptvorlagen
 
 ## Entwicklungs- und Laufzeitstatus
 
 - 4 illustrative Innenräume, 6 Figuren im derzeitigen Spielprototypen, 5 Gästetypen, 10 dynamische Ereignisse
-- 14 Figuren in der Character Bible: 6 der ersten und 8 der zweiten Welle
+- 30 Figuren in der Character Bible: 14 Kern-/Glamourfiguren, 8 Tänzerinnen, 8 Alltags-/Bratfiguren
 - Spielsimulation aktuell in JavaScript, noch nicht in Rust/WASM
 - Kein implementierter Multiplayer; kein fertiger nativer Release; keine altersverifizierte Distribution
 
@@ -43,5 +43,11 @@ npm run tauri:dev
 Die Character Bible dokumentiert Name, Aussehen, Accessoires, Kernoutfits, vier Gesichtsausdrücke, Prompt-Anker und Drift-Regeln. Die Referenzbilder sind der primäre Anker für identitätsstabile spätere Szenen. Generative Ergebnisse sind nicht pixelidentisch garantiert.
 ## Hinweis zu den Originalgrafiken
 
-Die 14 kanonischen PNG-Referenzbilder konnten über die GitHub-Dateischnittstelle noch nicht übertragen werden. Im Repository stehen bereits die 14 Charakterprofile und Prompt-Packs sowie das Bildmanifest unter `assets/reference/characters/README.md`. Das vollständige Projektarchiv einschließlich der PNG-Originale ist separat in der Unterhaltung abrufbar und muss zum vollständigen Asset-Import in das Repository nachgetragen werden.
+Die kanonischen PNG-Referenzbilder konnten über die GitHub-Dateischnittstelle noch nicht übertragen werden. Im Repository stehen bereits die Charakterprofile und Prompt-Packs sowie das Bildmanifest unter `assets/reference/characters/README.md`. Das vollständige Projektarchiv einschließlich der PNG-Originale ist separat in der Unterhaltung abrufbar und muss zum vollständigen Asset-Import in das Repository nachgetragen werden.
 
+
+## Alltags-/Brat-Charaktere
+
+Acht Charaktere mit Identitätsprofilen und Prompts: Elise Rowan, Rosalie Quinn, Ivy Mercer, Nora Vale, Tessa Bloom, Marnie Vale, Juno Mercer, Nora Quinn. Für Elise, Rosalie und Tessa sind zusätzliche Looks/Posen unter `assets/reference/characters/variants/` spezifiziert.
+
+Die 11 neuen PNG-Originalbilder sind im Projekt-ZIP enthalten und **noch nicht auf GitHub**. Die Profile, Prompts und Dateipfade sind im Commit versioniert.

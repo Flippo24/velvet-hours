@@ -25,3 +25,15 @@ git push origin main
 ```
 
 Die Originalgrafiken sollten bei zukünftigen Varianten als primäre Bildreferenzen verwendet werden.
+
+## Alltag und Brat: Neue Figuren (PNG-Referenzen noch lokal)
+- `elise-rowan.png` · Elise Rowan; dazu `variants/elise-rowan-casual-01.png`
+- `rosalie-quinn.png` · Rosalie Quinn; dazu `variants/rosalie-quinn-casual-01.png`
+- `ivy-mercer.png` · Ivy Mercer
+- `nora-vale.png` · Nora Vale
+- `tessa-bloom.png` · Tessa Bloom; dazu `variants/tessa-bloom-casual-01.png`
+- `marnie-vale.png` · Marnie Vale
+- `juno-mercer.png` · Juno Mercer
+- `nora-quinn.png` · Nora Quinn
+
+Die **11 neu hinzugekommenen Bilder** (8 kanonische Bögen, 3 Varianten) sind im aktualisierten Projekt-ZIP verfügbar, nicht in GitHub. Insgesamt sind 30 Figurenprofile und Prompt-Packs im Repository dokumentiert.

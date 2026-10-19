@@ -1,0 +1,34 @@
+{
+  "slug": "nora-vale",
+  "name": "Nora Vale",
+  "age": 31,
+  "role": "Kundenmanagement / Office",
+  "tag": "Smart city look",
+  "description": "Erwachsene Frau mit kastanienroten Wellen, dunkelgrünem Business-Zweiteiler, beigem Trenchcoat und goldenen Accessoires.",
+  "identity_lock": [
+    "mittellange kastanienrote Wellen",
+    "haselnussbraune Augen",
+    "Goldkreolen",
+    "selbstbewusste erwachsene Silhouette",
+    "Waldgrün, Creme, Beige und Schwarz"
+  ],
+  "canonical_outfit": "Dunkelgrüner Blazer und passende Shorts, helle Seidenbluse, beige Trenchjacke, schwarze Pumps.",
+  "poses": [
+    "signature look",
+    "elegant stand",
+    "lounge seat",
+    "over-the-shoulder"
+  ],
+  "expressions": [
+    "bright smile",
+    "sultry gaze",
+    "surprised",
+    "annoyed"
+  ],
+  "reference_image": "assets/reference/characters/nora-vale.png",
+  "variant_images": [],
+  "base_style_prompt": "Polished semi-realistic digital painting, clean line art, painterly shading, magenta rim light, contemporary adult streetwear, dark clean background, consistent Velvet Hours character-sheet layout.",
+  "identity_anchor_prompt": "Use the canonical reference image of Nora Vale as primary identity anchor. Preserve the same adult face, hairstyle, hair and eye color, skin tone, body proportions and signature accessories; do not confuse this character with other Velvet Hours figures.",
+  "scene_prompt_template": "Use the canonical reference image of Nora Vale as primary identity anchor. Preserve the same adult face, hairstyle, hair and eye color, skin tone, body proportions and signature accessories; do not confuse this character with other Velvet Hours figures. Place the person in [LOCATION], wearing [OUTFIT], with [EXPRESSION], [POSE] and [CAMERA]. Keep the established style.",
+  "binary_assets_status": "Canonical and variant PNGs are in the separately available project ZIP, not yet checked into GitHub."
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "rosalie-quinn",
+  "name": "Rosalie Quinn",
+  "age": 29,
+  "role": "Lounge-Gastgeberin / Eventkoordinatorin",
+  "tag": "Soft romantic brat",
+  "description": "Erwachsene Frau mit langen kastanienbraunen Wellen, weicher Mimik, rosigen Akzenten und kleinen rubinroten Schmucksteinen.",
+  "identity_lock": [
+    "lange kastanienbraune Wellen",
+    "haselnussbraune Augen",
+    "weiche erwachsene Gesichtsform",
+    "kurvige Proportionen",
+    "kleine rote Edelstein-Ohrgehänge",
+    "Rosa, Creme, Schwarz und Bordeaux"
+  ],
+  "canonical_outfit": "Rosafarbener Cardigan oder Trenchcoat, cremefarbenes Top mit Spitze, schwarzer Rock, Strumpfhose und rote Pumps.",
+  "poses": [
+    "relaxed standing",
+    "hands on hips",
+    "café seat",
+    "slow walk"
+  ],
+  "expressions": [
+    "gentle smile",
+    "flirtatious look",
+    "shocked",
+    "displeased"
+  ],
+  "reference_image": "assets/reference/characters/rosalie-quinn.png",
+  "variant_images": [
+    {
+      "path": "assets/reference/characters/variants/rosalie-quinn-casual-01.png",
+      "description": "Café-Outfit: florales cremefarbenes Top, pinke Strickjacke, schwarzer kurzer Rock, helle Pumps."
+    }
+  ],
+  "base_style_prompt": "Polished semi-realistic digital painting, clean line art, painterly shading, magenta rim light, contemporary adult streetwear, dark clean background, consistent Velvet Hours character-sheet layout.",
+  "identity_anchor_prompt": "Use the canonical reference image of Rosalie Quinn as primary identity anchor. Preserve the same adult face, hairstyle, hair and eye color, skin tone, body proportions and signature accessories; do not confuse this character with other Velvet Hours figures.",
+  "scene_prompt_template": "Use the canonical reference image of Rosalie Quinn as primary identity anchor. Preserve the same adult face, hairstyle, hair and eye color, skin tone, body proportions and signature accessories; do not confuse this character with other Velvet Hours figures. Place the person in [LOCATION], wearing [OUTFIT], with [EXPRESSION], [POSE] and [CAMERA]. Keep the established style.",
+  "binary_assets_status": "Canonical and variant PNGs are in the separately available project ZIP, not yet checked into GitHub."
+}

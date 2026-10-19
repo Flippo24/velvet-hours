@@ -1,0 +1,40 @@
+{
+  "slug": "tessa-bloom",
+  "name": "Tessa Bloom",
+  "age": 26,
+  "role": "Social Media / Show-Promotion",
+  "tag": "Confident brat streetwear",
+  "description": "Erwachsene Blondine mit langen voluminösen Wellen, blauen Augen, frecher Mimik, Collegejacke und Plateau-Boots.",
+  "identity_lock": [
+    "lange goldblonde Wellen",
+    "blaue Augen",
+    "kurvige erwachsene Proportionen",
+    "sportliche Varsityjacke",
+    "Weiß, Schwarz, Grau, Limettengrün",
+    "schwarze Plateau-Schnürboots"
+  ],
+  "canonical_outfit": "Schwarz-grüne Varsityjacke, weißes Rippstrick-Top, kurzer grauer Rock, weiße Socken, Plateau-Boots.",
+  "poses": [
+    "signature look",
+    "street pose",
+    "seated pose",
+    "backward glance"
+  ],
+  "expressions": [
+    "cheeky smile",
+    "thoughtful",
+    "surprised",
+    "annoyed"
+  ],
+  "reference_image": "assets/reference/characters/tessa-bloom.png",
+  "variant_images": [
+    {
+      "path": "assets/reference/characters/variants/tessa-bloom-casual-01.png",
+      "description": "Alternative Varsityjacke in Schwarz/Creme mit grauem Rock oder Denimshorts, identisches Gesicht."
+    }
+  ],
+  "base_style_prompt": "Polished semi-realistic digital painting, clean line art, painterly shading, magenta rim light, contemporary adult streetwear, dark clean background, consistent Velvet Hours character-sheet layout.",
+  "identity_anchor_prompt": "Use the canonical reference image of Tessa Bloom as primary identity anchor. Preserve the same adult face, hairstyle, hair and eye color, skin tone, body proportions and signature accessories; do not confuse this character with other Velvet Hours figures.",
+  "scene_prompt_template": "Use the canonical reference image of Tessa Bloom as primary identity anchor. Preserve the same adult face, hairstyle, hair and eye color, skin tone, body proportions and signature accessories; do not confuse this character with other Velvet Hours figures. Place the person in [LOCATION], wearing [OUTFIT], with [EXPRESSION], [POSE] and [CAMERA]. Keep the established style.",
+  "binary_assets_status": "Canonical and variant PNGs are in the separately available project ZIP, not yet checked into GitHub."
+}

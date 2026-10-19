@@ -1,0 +1,40 @@
+{
+  "slug": "elise-rowan",
+  "name": "Elise Rowan",
+  "age": 27,
+  "role": "Gästebetreuung / Mode-Influencerin",
+  "tag": "Everyday chic",
+  "description": "Erwachsene blonde Frau mit langen goldblonden Wellen, blauen Augen, hellen Gesichtszügen und einer eleganten femininen Silhouette.",
+  "identity_lock": [
+    "lange goldblonde Wellen",
+    "blaue Augen",
+    "helle Haut",
+    "kurvige erwachsene Proportionen",
+    "saphirblaue Ohrgehänge und Halskette",
+    "Creme, Pastellblau und Gold"
+  ],
+  "canonical_outfit": "Cremefarbener Rippstrick, hellblauer Rock, helle Stiefeletten, cremefarbene kleine Tasche.",
+  "poses": [
+    "casual standing",
+    "playful street pose",
+    "seated café lounge",
+    "over-the-shoulder"
+  ],
+  "expressions": [
+    "warm smile",
+    "cheeky grin",
+    "surprised",
+    "annoyed pout"
+  ],
+  "reference_image": "assets/reference/characters/elise-rowan.png",
+  "variant_images": [
+    {
+      "path": "assets/reference/characters/variants/elise-rowan-casual-01.png",
+      "description": "Street-Outfit: Jeansjacke, weißes Knit-Top, kurzer Rock oder Jeansshorts, helle Sneaker."
+    }
+  ],
+  "base_style_prompt": "Polished semi-realistic digital painting, clean line art, painterly shading, magenta rim light, contemporary adult streetwear, dark clean background, consistent Velvet Hours character-sheet layout.",
+  "identity_anchor_prompt": "Use the canonical reference image of Elise Rowan as primary identity anchor. Preserve the same adult face, hairstyle, hair and eye color, skin tone, body proportions and signature accessories; do not confuse this character with other Velvet Hours figures.",
+  "scene_prompt_template": "Use the canonical reference image of Elise Rowan as primary identity anchor. Preserve the same adult face, hairstyle, hair and eye color, skin tone, body proportions and signature accessories; do not confuse this character with other Velvet Hours figures. Place the person in [LOCATION], wearing [OUTFIT], with [EXPRESSION], [POSE] and [CAMERA]. Keep the established style.",
+  "binary_assets_status": "Canonical and variant PNGs are in the separately available project ZIP, not yet checked into GitHub."
+}

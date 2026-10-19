@@ -1,0 +1,34 @@
+{
+  "slug": "marnie-vale",
+  "name": "Marnie Vale",
+  "age": 28,
+  "role": "Lounge-Team / Kaffee-Bar",
+  "tag": "Pink casual brat",
+  "description": "Erwachsene Frau mit braunen Wellen, lässiger rosafarbener Strickjacke, cremefarbenem Top, schwarzem Rock und roter Tasche.",
+  "identity_lock": [
+    "mittelbraune Wellen, weniger dunkel als Rosalie",
+    "braune Augen",
+    "erwachsene kurvige Silhouette",
+    "rosa Strick und weinrote Handtasche",
+    "schwarzer Rock, rote Pumps"
+  ],
+  "canonical_outfit": "Rosa Oversize-Strickjacke, cremefarbenes geripptes Top, schwarzer Minirock, rote Pumps und rote Tasche.",
+  "poses": [
+    "signature look",
+    "hands on hips",
+    "café pose",
+    "slow walk"
+  ],
+  "expressions": [
+    "gentle smile",
+    "flirtatious look",
+    "shocked",
+    "displeased"
+  ],
+  "reference_image": "assets/reference/characters/marnie-vale.png",
+  "variant_images": [],
+  "base_style_prompt": "Polished semi-realistic digital painting, clean line art, painterly shading, magenta rim light, contemporary adult streetwear, dark clean background, consistent Velvet Hours character-sheet layout.",
+  "identity_anchor_prompt": "Use the canonical reference image of Marnie Vale as primary identity anchor. Preserve the same adult face, hairstyle, hair and eye color, skin tone, body proportions and signature accessories; do not confuse this character with other Velvet Hours figures.",
+  "scene_prompt_template": "Use the canonical reference image of Marnie Vale as primary identity anchor. Preserve the same adult face, hairstyle, hair and eye color, skin tone, body proportions and signature accessories; do not confuse this character with other Velvet Hours figures. Place the person in [LOCATION], wearing [OUTFIT], with [EXPRESSION], [POSE] and [CAMERA]. Keep the established style.",
+  "binary_assets_status": "Canonical and variant PNGs are in the separately available project ZIP, not yet checked into GitHub."
+}

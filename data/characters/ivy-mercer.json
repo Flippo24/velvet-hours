@@ -1,0 +1,34 @@
+{
+  "slug": "ivy-mercer",
+  "name": "Ivy Mercer",
+  "age": 28,
+  "role": "Bartresen / Empfang",
+  "tag": "Boho street chic",
+  "description": "Erwachsene Dunkelbrünette mit voluminösen Wellen, grünen Augen, goldenen Kreolen und floralem dunkelgrünem Wickelkleid.",
+  "identity_lock": [
+    "lange dunkelbraune Wellen",
+    "grüne Augen",
+    "Goldkreolen",
+    "kurvige erwachsene Figur",
+    "dunkelgrünes Blumenmuster, Denim und braunes Leder"
+  ],
+  "canonical_outfit": "Florales dunkelgrünes Wickelkleid, Jeansjacke, braune hohe Stiefel und Umhängetasche.",
+  "poses": [
+    "signature look",
+    "relaxed pose",
+    "seated pose",
+    "backward glance"
+  ],
+  "expressions": [
+    "sweet smile",
+    "thoughtful",
+    "playful wink",
+    "cold disapproval"
+  ],
+  "reference_image": "assets/reference/characters/ivy-mercer.png",
+  "variant_images": [],
+  "base_style_prompt": "Polished semi-realistic digital painting, clean line art, painterly shading, magenta rim light, contemporary adult streetwear, dark clean background, consistent Velvet Hours character-sheet layout.",
+  "identity_anchor_prompt": "Use the canonical reference image of Ivy Mercer as primary identity anchor. Preserve the same adult face, hairstyle, hair and eye color, skin tone, body proportions and signature accessories; do not confuse this character with other Velvet Hours figures.",
+  "scene_prompt_template": "Use the canonical reference image of Ivy Mercer as primary identity anchor. Preserve the same adult face, hairstyle, hair and eye color, skin tone, body proportions and signature accessories; do not confuse this character with other Velvet Hours figures. Place the person in [LOCATION], wearing [OUTFIT], with [EXPRESSION], [POSE] and [CAMERA]. Keep the established style.",
+  "binary_assets_status": "Canonical and variant PNGs are in the separately available project ZIP, not yet checked into GitHub."
+}
