@@ -1,0 +1,22 @@
+{
+  "name": "Bianca Thorne",
+  "slug": "bianca-thorne",
+  "role": "Luxus-Companion",
+  "identity_summary": "erwachsene Frau mit kühler heller Haut, langen platin-silbernen Wellen, stahlblauen Augen und Saphirschmuck",
+  "canonical_outfit": "schwarz-elfenbeinfarbenes Couture-Kleid mit Goldfiligran und langen Handschuhen",
+  "alt_outfits": [
+    "weißer Couture-Hosenanzug",
+    "reich verzierter Lounge-Look",
+    "nachtblaues Abendkleid"
+  ],
+  "expressions": [
+    "kühl lächelnd",
+    "nachdenklich",
+    "amüsiert",
+    "missbilligend"
+  ],
+  "do_not_change": "Platin-silberne Wellen, Saphirschmuck und aristokratischen Couture-Look beibehalten",
+  "reference_image": "assets/reference/characters/bianca-thorne.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Bianca Thorne. Preserve the same face, body, hair and color palette: erwachsene Frau mit kühler heller Haut, langen platin-silbernen Wellen, stahlblauen Augen und Saphirschmuck.",
+  "scene_template": "Same exact adult person Bianca Thorne in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}

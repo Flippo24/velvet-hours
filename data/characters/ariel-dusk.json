@@ -1,0 +1,21 @@
+{
+  "name": "Ariel Dusk",
+  "slug": "ariel-dusk",
+  "role": "Transfemininer Lounge-Star",
+  "identity_summary": "erwachsene transfeminine Frau mit honigbrauner Haut, langen dunklen pflaumenschimmernden Wellen, elegant kurviger Figur und violettem Edelsteinschmuck",
+  "canonical_outfit": "dunkelpflaumenfarbenes drapiertes Abendkleid mit Goldakzenten",
+  "alt_outfits": [
+    "violetter glitzernder Bühnenlook",
+    "Lounge-Robe mit dunklen Spitzendetails"
+  ],
+  "expressions": [
+    "warm lächelnd",
+    "gefasst",
+    "verführerisch",
+    "missbilligend"
+  ],
+  "do_not_change": "Lange dunkle Wellen, Pflaumenpalette und violette Schmucksteine beibehalten",
+  "reference_image": "assets/reference/characters/ariel-dusk.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Ariel Dusk. Preserve the same face, body, hair and color palette: erwachsene transfeminine Frau mit honigbrauner Haut, langen dunklen pflaumenschimmernden Wellen, elegant kurviger Figur und violettem Edelsteinschmuck.",
+  "scene_template": "Same exact adult person Ariel Dusk in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}

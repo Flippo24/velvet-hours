@@ -1,0 +1,21 @@
+{
+  "name": "Iris Vale",
+  "slug": "iris-vale",
+  "role": "Betriebsleiterin und Strategin",
+  "identity_summary": "erwachsene Frau mit heller Haut, kurzem silber-lavendelfarbenem Bob, kühlem Blick und präzisem Make-up",
+  "canonical_outfit": "kobaltblauer Hosenanzug über schwarzem Spitzenoberteil",
+  "alt_outfits": [
+    "schwarzes Abendkleid",
+    "After-hours-Look mit dunklem Mantel"
+  ],
+  "expressions": [
+    "cool lächelnd",
+    "analytisch",
+    "amüsiert",
+    "verärgert"
+  ],
+  "do_not_change": "Silbrig-lavendelfarbenen Bob, kühle Geschäftsausstrahlung und klares Styling beibehalten",
+  "reference_image": "assets/reference/characters/iris-vale.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Iris Vale. Preserve the same face, body, hair and color palette: erwachsene Frau mit heller Haut, kurzem silber-lavendelfarbenem Bob, kühlem Blick und präzisem Make-up.",
+  "scene_template": "Same exact adult person Iris Vale in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}

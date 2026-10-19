@@ -1,0 +1,29 @@
+{
+  "$schema": "https://schema.tauri.app/config/2",
+  "productName": "Velvet Hours",
+  "version": "0.1.0",
+  "identifier": "de.velvethours.app",
+  "build": {
+    "beforeDevCommand": "python3 -m http.server 5173 -d web",
+    "devUrl": "http://localhost:5173",
+    "beforeBuildCommand": "python3 build.py",
+    "frontendDist": "../web"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "Velvet Hours",
+        "width": 1440,
+        "height": 900,
+        "minWidth": 850,
+        "minHeight": 580
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": false
+  }
+}

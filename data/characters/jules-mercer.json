@@ -1,0 +1,22 @@
+{
+  "name": "Jules Mercer",
+  "slug": "jules-mercer",
+  "role": "Androgyner Host und Barkeeper",
+  "identity_summary": "klar erwachsener androgyner Host mit olivfarbener Haut, lockigem dunklen Haar, bernsteinfarbenem Blick, Goldschmuck und schlank-athletischem Bau",
+  "canonical_outfit": "schwarzes Hemd und burgunderrote Brokatweste mit dunkler Hose",
+  "alt_outfits": [
+    "burgunderroter Lounge-Anzug",
+    "Barkeeper-Schürze",
+    "lässiger After-hours-Look"
+  ],
+  "expressions": [
+    "einladend",
+    "analytisch",
+    "amüsiert",
+    "genervt"
+  ],
+  "do_not_change": "Androgynen Bau, dunkle Locken, Schmuck und burgunder-schwarze Mode beibehalten",
+  "reference_image": "assets/reference/characters/jules-mercer.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Jules Mercer. Preserve the same face, body, hair and color palette: klar erwachsener androgyner Host mit olivfarbener Haut, lockigem dunklen Haar, bernsteinfarbenem Blick, Goldschmuck und schlank-athletischem Bau.",
+  "scene_template": "Same exact adult person Jules Mercer in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}

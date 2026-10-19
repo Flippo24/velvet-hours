@@ -1,0 +1,21 @@
+{
+  "name": "Selene Marot",
+  "slug": "selene-marot",
+  "role": "Luxus-Companion und Salongastgeberin",
+  "identity_summary": "erwachsene Frau mit heller Haut, kurzem asymmetrischem kupferrotem Bob, grünlichen Augen und eleganter, weicher Ausstrahlung",
+  "canonical_outfit": "petrolfarbenes Halterneck-Kleid mit goldenen Details und goldenen Sandaletten",
+  "alt_outfits": [
+    "tiefrotes Abendkleid mit weißer Stola",
+    "schwarzer Lounge-Look mit Robe"
+  ],
+  "expressions": [
+    "sanftes Lächeln",
+    "nachdenklich",
+    "verführerisch",
+    "gereizt"
+  ],
+  "do_not_change": "Kurzes kupferfarbenes Haar und elegante Silhouette beibehalten",
+  "reference_image": "assets/reference/characters/selene-marot.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Selene Marot. Preserve the same face, body, hair and color palette: erwachsene Frau mit heller Haut, kurzem asymmetrischem kupferrotem Bob, grünlichen Augen und eleganter, weicher Ausstrahlung.",
+  "scene_template": "Same exact adult person Selene Marot in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}

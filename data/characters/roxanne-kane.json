@@ -1,0 +1,21 @@
+{
+  "name": "Roxanne Kane",
+  "slug": "roxanne-kane",
+  "role": "Sängerin und Showfigur",
+  "identity_summary": "erwachsene Frau mit warmer heller Haut, langen voluminösen tiefroten Wellen, floralen Schulter- und Arm-Tattoos und Goldschmuck",
+  "canonical_outfit": "dunkelviolett-schwarzes Abendkleid mit Spitzenoberteil und hohem Schlitz",
+  "alt_outfits": [
+    "rotes Bühnenkleid mit Federstola",
+    "schwarzer Lounge-Look"
+  ],
+  "expressions": [
+    "anlockend",
+    "entschlossen",
+    "amüsiert",
+    "wütend"
+  ],
+  "do_not_change": "Tiefrote Wellen, Tattoo-Motive und expressive Präsenz beibehalten",
+  "reference_image": "assets/reference/characters/roxanne-kane.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Roxanne Kane. Preserve the same face, body, hair and color palette: erwachsene Frau mit warmer heller Haut, langen voluminösen tiefroten Wellen, floralen Schulter- und Arm-Tattoos und Goldschmuck.",
+  "scene_template": "Same exact adult person Roxanne Kane in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}

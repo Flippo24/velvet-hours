@@ -1,0 +1,22 @@
+{
+  "name": "Cassian Rey",
+  "slug": "cassian-rey",
+  "role": "Luxuriöser männlicher Escort",
+  "identity_summary": "erwachsener athletischer Mann mit gebräunter Haut, dunklem Wellenhaar, gepflegtem Stoppelbart und breiten Schultern",
+  "canonical_outfit": "cremefarbener Maßanzug über offenem schwarzen Hemd mit Goldschmuck",
+  "alt_outfits": [
+    "dunkler Smoking-Look",
+    "weißer Lounge-Hemdlook",
+    "schwarz-goldenes Club-Outfit"
+  ],
+  "expressions": [
+    "selbstbewusst",
+    "ernst",
+    "flirtend",
+    "gereizt"
+  ],
+  "do_not_change": "Wellenhaar, Stoppelbart, athletischen Körperbau und luxuriöse Maßkleidung beibehalten",
+  "reference_image": "assets/reference/characters/cassian-rey.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Cassian Rey. Preserve the same face, body, hair and color palette: erwachsener athletischer Mann mit gebräunter Haut, dunklem Wellenhaar, gepflegtem Stoppelbart und breiten Schultern.",
+  "scene_template": "Same exact adult person Cassian Rey in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}

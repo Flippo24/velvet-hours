@@ -1,0 +1,21 @@
+{
+  "name": "Valeria Voss",
+  "slug": "valeria-voss",
+  "role": "Managerin und Gastgeberin",
+  "identity_summary": "erwachsene Frau mit warmer olivfarbener Haut, langer voluminöser dunkelbrauner Wellenmähne, kurviger Silhouette, definierten Brauen und goldenen Creolen",
+  "canonical_outfit": "burgunderroter Hosenanzug, schwarzes Spitzenoberteil, Goldschnalle und schwarze Pumps",
+  "alt_outfits": [
+    "schwarzes Abendkleid mit Goldketten",
+    "Lounge-Look mit lockerem schwarzen Oberteil und burgunderroter Hose"
+  ],
+  "expressions": [
+    "selbstbewusstes Lächeln",
+    "ernst",
+    "flirtend",
+    "genervt"
+  ],
+  "do_not_change": "Haare, warme Haut, kurvige Silhouette und Goldschmuck beibehalten",
+  "reference_image": "assets/reference/characters/valeria-voss.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Valeria Voss. Preserve the same face, body, hair and color palette: erwachsene Frau mit warmer olivfarbener Haut, langer voluminöser dunkelbrauner Wellenmähne, kurviger Silhouette, definierten Brauen und goldenen Creolen.",
+  "scene_template": "Same exact adult person Valeria Voss in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Mina Seraph",
+  "slug": "mina-seraph",
+  "role": "Transfeminine Show-Performerin",
+  "identity_summary": "erwachsene transfeminine Frau mit platinblonden voluminösen Wellen, heller Haut, statuenhafter Figur, kristallbesetztem Glamour-Make-up",
+  "canonical_outfit": "weiß-silbernes kristallbesetztes Abendkleid mit drapiertem Rock",
+  "alt_outfits": [
+    "silbernes Bühnenkostüm mit Federakzenten",
+    "weißer Lounge-Look mit Seidenrobe"
+  ],
+  "expressions": [
+    "strahlend",
+    "komponiert",
+    "verführerisch",
+    "gereizt"
+  ],
+  "do_not_change": "Lange platinblonde Wellen, Kristalloptik und strahlende Präsenz beibehalten",
+  "reference_image": "assets/reference/characters/mina-seraph.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Mina Seraph. Preserve the same face, body, hair and color palette: erwachsene transfeminine Frau mit platinblonden voluminösen Wellen, heller Haut, statuenhafter Figur, kristallbesetztem Glamour-Make-up.",
+  "scene_template": "Same exact adult person Mina Seraph in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}

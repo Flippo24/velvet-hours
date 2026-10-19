@@ -1,0 +1,21 @@
+{
+  "name": "Amara Lux",
+  "slug": "amara-lux",
+  "role": "Showstar",
+  "identity_summary": "erwachsene Frau mit goldbrauner Haut, üppigem langen dunklen Lockenhaar, vollem kurvigem Körper und warmen Augen",
+  "canonical_outfit": "fließendes goldenes Göttinnenkleid mit Drapierungen und goldenen Sandaletten",
+  "alt_outfits": [
+    "goldenes Bühnenkostüm mit Schleiern",
+    "champagnerfarbener Lounge-Look"
+  ],
+  "expressions": [
+    "strahlend",
+    "komponiert",
+    "spielerisch",
+    "unzufrieden"
+  ],
+  "do_not_change": "Voluminöse dunkle Locken, Goldpalette und majestätische Präsenz beibehalten",
+  "reference_image": "assets/reference/characters/amara-lux.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Amara Lux. Preserve the same face, body, hair and color palette: erwachsene Frau mit goldbrauner Haut, üppigem langen dunklen Lockenhaar, vollem kurvigem Körper und warmen Augen.",
+  "scene_template": "Same exact adult person Amara Lux in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}

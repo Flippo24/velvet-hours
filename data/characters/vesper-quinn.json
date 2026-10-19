@@ -1,0 +1,21 @@
+{
+  "name": "Vesper Quinn",
+  "slug": "vesper-quinn",
+  "role": "Burlesque- und Cabaret-Star",
+  "identity_summary": "erwachsene Frau mit dunklen Old-Hollywood-Wellen, rotem Lippenstift, warmer heller Haut und ausgeprägter Bühnenpräsenz",
+  "canonical_outfit": "rotes und schwarzes Brokat-Cabaret-Kleid mit Federn und Rubinschmuck",
+  "alt_outfits": [
+    "rotes Bühnenkostüm mit Federboa",
+    "schwarzer After-hours-Lounge-Look"
+  ],
+  "expressions": [
+    "strahlend",
+    "gefasst",
+    "spielerisch",
+    "wütend"
+  ],
+  "do_not_change": "Schwarz-rote Cabaret-Palette, Vintage-Wellen, rote Lippen und dramatische Präsenz beibehalten",
+  "reference_image": "assets/reference/characters/vesper-quinn.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Vesper Quinn. Preserve the same face, body, hair and color palette: erwachsene Frau mit dunklen Old-Hollywood-Wellen, rotem Lippenstift, warmer heller Haut und ausgeprägter Bühnenpräsenz.",
+  "scene_template": "Same exact adult person Vesper Quinn in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Noor Sade",
+  "slug": "noor-sade",
+  "role": "Dominante Fetisch- und Power-Figur",
+  "identity_summary": "erwachsene Frau mit warm dunkel-olivfarbener Haut, langen dichten dunklen Locken, goldenen Statement-Ohrringen und selbstbewusster Präsenz",
+  "canonical_outfit": "schwarzes Samtkleid mit Korsettoptik, Goldbeschlägen und langen Handschuhen",
+  "alt_outfits": [
+    "schwarzer Power-Look mit hohen Stiefeln",
+    "burgunderrotes Abendkleid",
+    "dunkler Lounge-Mantel"
+  ],
+  "expressions": [
+    "souverän lächelnd",
+    "kontrolliert",
+    "spielerisch",
+    "streng"
+  ],
+  "do_not_change": "Dunkle Locken, Goldschmuck, schwarz-burgunderfarbenen Stil und starke Präsenz beibehalten",
+  "reference_image": "assets/reference/characters/noor-sade.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Noor Sade. Preserve the same face, body, hair and color palette: erwachsene Frau mit warm dunkel-olivfarbener Haut, langen dichten dunklen Locken, goldenen Statement-Ohrringen und selbstbewusster Präsenz.",
+  "scene_template": "Same exact adult person Noor Sade in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}

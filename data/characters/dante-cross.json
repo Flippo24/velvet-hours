@@ -1,0 +1,21 @@
+{
+  "name": "Dante Cross",
+  "slug": "dante-cross",
+  "role": "Host und Barkeeper",
+  "identity_summary": "erwachsener muskulöser Mann mit warmbrauner Haut, zurückgebundenen Braids/Dreadlocks, gepflegtem Bart und tätowierten Armen",
+  "canonical_outfit": "burgunderrote Weste über schwarzem Hemd, schwarze Hose und weiße Barserviette",
+  "alt_outfits": [
+    "Barkeeper-Look mit Lederschürze",
+    "formeller burgunderroter Anzug"
+  ],
+  "expressions": [
+    "freundlich",
+    "souverän ernst",
+    "spielerisch",
+    "eindringlich"
+  ],
+  "do_not_change": "Muskelbau, Tattoos, Haarstil und Bart beibehalten",
+  "reference_image": "assets/reference/characters/dante-cross.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Dante Cross. Preserve the same face, body, hair and color palette: erwachsener muskulöser Mann mit warmbrauner Haut, zurückgebundenen Braids/Dreadlocks, gepflegtem Bart und tätowierten Armen.",
+  "scene_template": "Same exact adult person Dante Cross in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}

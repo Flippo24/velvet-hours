@@ -1,0 +1,22 @@
+{
+  "name": "Lucien Vale",
+  "slug": "lucien-vale",
+  "role": "Femboy-Companion und Salonfigur",
+  "identity_summary": "klar erwachsener femininer Femboy mit porzellanfarbener Haut, kinnlangem schwarzem Wellenhaar, zierlicher Silhouette, Smokey Eyes und Smaragdschmuck",
+  "canonical_outfit": "schwarzer taillierter Anzug mit smaragdgrünem Satinhemd, Korsettdetails und Goldschmuck",
+  "alt_outfits": [
+    "smaragdgrüner Lounge-Mantel",
+    "schwarzer Bühnenlook mit Goldketten",
+    "After-hours-Satinlook"
+  ],
+  "expressions": [
+    "sanft",
+    "nachdenklich",
+    "neckend",
+    "verärgert"
+  ],
+  "do_not_change": "Androgyne schlanke Silhouette, kurzes dunkles Wellenhaar und grüne Schmuckakzente beibehalten",
+  "reference_image": "assets/reference/characters/lucien-vale.png",
+  "identity_anchor_prompt": "Use the canonical identity reference for Lucien Vale. Preserve the same face, body, hair and color palette: klar erwachsener femininer Femboy mit porzellanfarbener Haut, kinnlangem schwarzem Wellenhaar, zierlicher Silhouette, Smokey Eyes und Smaragdschmuck.",
+  "scene_template": "Same exact adult person Lucien Vale in [SCENE], pose [POSE], wearing [OUTFIT], emotion [EMOTION], polished Velvet Hours glamour illustration, detailed fabric, magenta/violet rimlight."
+}
