@@ -1,0 +1,32 @@
+{
+  "name": "Lyra Noctis",
+  "slug": "lyra-noctis",
+  "role": "Nocturne-Tänzerin / Velvet-Lounge-Star",
+  "reference_image": "assets/reference/characters/lyra-noctis.png",
+  "identity_summary": "Adult dancer with long dark waves, lavender-black glamour palette, and a cool nocturnal presence.",
+  "identity_lock": [
+    "adult woman",
+    "curvy elegant figure",
+    "long dark wavy hair",
+    "fair skin",
+    "lavender-black jewel palette",
+    "nocturnal luxe aura"
+  ],
+  "canonical_outfit": "Jeweled purple performance look with sheer draped fabrics and gold heels.",
+  "pose_pack": [
+    "slow turn",
+    "hand-raised pose",
+    "reclining pose",
+    "dramatic walk"
+  ],
+  "expressions": [
+    "serene smile",
+    "teasing smirk",
+    "startled look",
+    "stern disapproval"
+  ],
+  "base_style_prompt": "polished semi-realistic digital illustration, glamorous nightclub character sheet, crisp line art, painterly shading, dramatic magenta and violet neon rim light, rich jewel-tone palette, high detail fabrics and jewelry",
+  "identity_anchor_prompt": "Use Image A as the identity anchor for Lyra Noctis. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura.",
+  "scene_template": "Use Image A as the identity anchor for Lyra Noctis. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura. Place Lyra Noctis in [SCENE], wearing [OUTFIT], with [EXPRESSION], in a [POSE] pose. Keep the established Velvet Hours art style.",
+  "asset_status": "PNG original not yet committed to GitHub; included in separately delivered project ZIP"
+}

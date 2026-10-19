@@ -1,0 +1,32 @@
+{
+  "name": "Dahlia Rook",
+  "slug": "dahlia-rook",
+  "role": "Tattooed Cabaret-Tänzerin",
+  "reference_image": "assets/reference/characters/dahlia-rook.png",
+  "identity_summary": "Adult cabaret dancer with dark curls, rose tattoos, and a red-black burlesque power aura.",
+  "identity_lock": [
+    "adult woman",
+    "curvy figure",
+    "dark curly hair",
+    "rose tattoos",
+    "red-black palette",
+    "cabaret rebel aura"
+  ],
+  "canonical_outfit": "Red-black jeweled cabaret outfit with lace, gloves, and gold heels.",
+  "pose_pack": [
+    "cane look",
+    "seated look",
+    "back-arch look",
+    "slow walk look"
+  ],
+  "expressions": [
+    "joyful laugh",
+    "seductive side-eye",
+    "shocked",
+    "furious glare"
+  ],
+  "base_style_prompt": "polished semi-realistic digital illustration, glamorous nightclub character sheet, crisp line art, painterly shading, dramatic magenta and violet neon rim light, rich jewel-tone palette, high detail fabrics and jewelry",
+  "identity_anchor_prompt": "Use Image A as the identity anchor for Dahlia Rook. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura.",
+  "scene_template": "Use Image A as the identity anchor for Dahlia Rook. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura. Place Dahlia Rook in [SCENE], wearing [OUTFIT], with [EXPRESSION], in a [POSE] pose. Keep the established Velvet Hours art style.",
+  "asset_status": "PNG original not yet committed to GitHub; included in separately delivered project ZIP"
+}

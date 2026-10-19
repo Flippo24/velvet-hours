@@ -1,0 +1,32 @@
+{
+  "name": "Zuri Ember",
+  "slug": "zuri-ember",
+  "role": "Goldene Show-Tänzerin",
+  "reference_image": "assets/reference/characters/zuri-ember.png",
+  "identity_summary": "Adult dancer with warm brown skin, dark curls, and a gold-turquoise jewel palette.",
+  "identity_lock": [
+    "adult woman",
+    "curvy dancer silhouette",
+    "warm brown skin",
+    "dark curly hair",
+    "gold-turquoise palette",
+    "playful regal aura"
+  ],
+  "canonical_outfit": "Gold-turquoise jewel costume with draped fabrics and ornate heels.",
+  "pose_pack": [
+    "hands on hips",
+    "arabesque",
+    "throne pose",
+    "backward glance"
+  ],
+  "expressions": [
+    "radiant grin",
+    "thoughtful",
+    "playful wink",
+    "angry glare"
+  ],
+  "base_style_prompt": "polished semi-realistic digital illustration, glamorous nightclub character sheet, crisp line art, painterly shading, dramatic magenta and violet neon rim light, rich jewel-tone palette, high detail fabrics and jewelry",
+  "identity_anchor_prompt": "Use Image A as the identity anchor for Zuri Ember. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura.",
+  "scene_template": "Use Image A as the identity anchor for Zuri Ember. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura. Place Zuri Ember in [SCENE], wearing [OUTFIT], with [EXPRESSION], in a [POSE] pose. Keep the established Velvet Hours art style.",
+  "asset_status": "PNG original not yet committed to GitHub; included in separately delivered project ZIP"
+}

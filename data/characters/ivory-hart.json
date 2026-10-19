@@ -1,0 +1,32 @@
+{
+  "name": "Ivory Hart",
+  "slug": "ivory-hart",
+  "role": "Blonde Mondschein-Tänzerin",
+  "reference_image": "assets/reference/characters/ivory-hart.png",
+  "identity_summary": "Adult blonde dancer with porcelain skin, ash-blonde waves, and lavender-black jewel glamour.",
+  "identity_lock": [
+    "adult woman",
+    "curvy elegant build",
+    "very fair skin",
+    "long ash-blonde hair",
+    "lavender-black-gold palette",
+    "moonlit glamour aura"
+  ],
+  "canonical_outfit": "Black-lavender jeweled dancer look with sheer drapes and gemstone chains.",
+  "pose_pack": [
+    "signature look",
+    "slow turn",
+    "reclining pose",
+    "dramatic walk"
+  ],
+  "expressions": [
+    "serene smile",
+    "teasing smirk",
+    "startled look",
+    "stern disapproval"
+  ],
+  "base_style_prompt": "polished semi-realistic digital illustration, glamorous nightclub character sheet, crisp line art, painterly shading, dramatic magenta and violet neon rim light, rich jewel-tone palette, high detail fabrics and jewelry",
+  "identity_anchor_prompt": "Use Image A as the identity anchor for Ivory Hart. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura.",
+  "scene_template": "Use Image A as the identity anchor for Ivory Hart. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura. Place Ivory Hart in [SCENE], wearing [OUTFIT], with [EXPRESSION], in a [POSE] pose. Keep the established Velvet Hours art style.",
+  "asset_status": "PNG original not yet committed to GitHub; included in separately delivered project ZIP"
+}

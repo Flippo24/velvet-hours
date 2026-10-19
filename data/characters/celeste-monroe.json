@@ -1,0 +1,32 @@
+{
+  "name": "Celeste Monroe",
+  "slug": "celeste-monroe",
+  "role": "Burlesque Blonde Diva",
+  "reference_image": "assets/reference/characters/celeste-monroe.png",
+  "identity_summary": "Adult blonde cabaret diva with champagne-blonde curls, ruby jewel accents, and lush red-feather styling.",
+  "identity_lock": [
+    "adult woman",
+    "curvy pin-up silhouette",
+    "champagne blonde hair",
+    "green eyes",
+    "ruby-red jewel styling",
+    "burlesque glamour aura"
+  ],
+  "canonical_outfit": "Champagne and ruby cabaret ensemble with feathers, chains, and glittering heels.",
+  "pose_pack": [
+    "signature look",
+    "cane pose",
+    "seated cabaret",
+    "slow walk"
+  ],
+  "expressions": [
+    "joyful laugh",
+    "seductive side-eye",
+    "shocked reaction",
+    "furious glare"
+  ],
+  "base_style_prompt": "polished semi-realistic digital illustration, glamorous nightclub character sheet, crisp line art, painterly shading, dramatic magenta and violet neon rim light, rich jewel-tone palette, high detail fabrics and jewelry",
+  "identity_anchor_prompt": "Use Image A as the identity anchor for Celeste Monroe. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura.",
+  "scene_template": "Use Image A as the identity anchor for Celeste Monroe. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura. Place Celeste Monroe in [SCENE], wearing [OUTFIT], with [EXPRESSION], in a [POSE] pose. Keep the established Velvet Hours art style.",
+  "asset_status": "PNG original not yet committed to GitHub; included in separately delivered project ZIP"
+}

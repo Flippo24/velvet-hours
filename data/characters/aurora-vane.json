@@ -1,0 +1,32 @@
+{
+  "name": "Aurora Vane",
+  "slug": "aurora-vane",
+  "role": "Blonde Himmels-Tänzerin",
+  "reference_image": "assets/reference/characters/aurora-vane.png",
+  "identity_summary": "Adult blonde dancer with platinum waves, blue-sapphire jewel styling, and a radiant celestial glamour.",
+  "identity_lock": [
+    "adult woman",
+    "curvy hourglass figure",
+    "fair skin",
+    "long voluminous platinum-blonde hair",
+    "blue eyes",
+    "white-gold-blue jewel palette"
+  ],
+  "canonical_outfit": "White-gold sapphire dancer ensemble with flowing translucent drapes and jeweled heels.",
+  "pose_pack": [
+    "signature look",
+    "side arch",
+    "seated lounge",
+    "over-the-shoulder"
+  ],
+  "expressions": [
+    "radiant smile",
+    "sultry gaze",
+    "surprised reaction",
+    "cold disapproval"
+  ],
+  "base_style_prompt": "polished semi-realistic digital illustration, glamorous nightclub character sheet, crisp line art, painterly shading, dramatic magenta and violet neon rim light, rich jewel-tone palette, high detail fabrics and jewelry",
+  "identity_anchor_prompt": "Use Image A as the identity anchor for Aurora Vane. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura.",
+  "scene_template": "Use Image A as the identity anchor for Aurora Vane. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura. Place Aurora Vane in [SCENE], wearing [OUTFIT], with [EXPRESSION], in a [POSE] pose. Keep the established Velvet Hours art style.",
+  "asset_status": "PNG original not yet committed to GitHub; included in separately delivered project ZIP"
+}

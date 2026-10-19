@@ -1,0 +1,32 @@
+{
+  "name": "Saffron Blaze",
+  "slug": "saffron-blaze",
+  "role": "Feuer-Tänzerin / Cabaret-Star",
+  "reference_image": "assets/reference/characters/saffron-blaze.png",
+  "identity_summary": "Adult dancer with vivid copper-red voluminous curls, glowing warm skin, red-gold jewel styling, and a fiery stage presence.",
+  "identity_lock": [
+    "adult woman",
+    "curvy hourglass figure",
+    "warm glowing skin",
+    "very long voluminous copper-red curls",
+    "red-gold gem styling",
+    "fiery glamorous aura"
+  ],
+  "canonical_outfit": "Jeweled red-gold performance outfit with flowing drapes and gold strappy heels.",
+  "pose_pack": [
+    "Confident strut",
+    "side arch",
+    "seated lounge",
+    "over-the-shoulder"
+  ],
+  "expressions": [
+    "delighted laugh",
+    "sultry gaze",
+    "surprised reaction",
+    "cold dismissive stare"
+  ],
+  "base_style_prompt": "polished semi-realistic digital illustration, glamorous nightclub character sheet, crisp line art, painterly shading, dramatic magenta and violet neon rim light, rich jewel-tone palette, high detail fabrics and jewelry",
+  "identity_anchor_prompt": "Use Image A as the identity anchor for Saffron Blaze. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura.",
+  "scene_template": "Use Image A as the identity anchor for Saffron Blaze. Preserve the exact facial structure, hair, body proportions, skin tone, signature accessories, and overall glamour aura. Place Saffron Blaze in [SCENE], wearing [OUTFIT], with [EXPRESSION], in a [POSE] pose. Keep the established Velvet Hours art style.",
+  "asset_status": "PNG original not yet committed to GitHub; included in separately delivered project ZIP"
+}
