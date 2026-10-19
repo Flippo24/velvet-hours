@@ -1,0 +1,32 @@
+{
+  "slug": "bianca-sterling",
+  "name": "Bianca Sterling",
+  "age": 31,
+  "role": "Empfang / Executive-Lounge",
+  "category": "dress",
+  "appearance": "Lange glatte champagnerblonde Haare, blaue Augen, goldene Accessoires",
+  "canonical_outfit": "Kurzes figurbetontes cremeweißes Seidenkleid mit goldener Stickerei",
+  "identity_lock": [
+    "Lange glatte champagnerblonde Haare",
+    "blaue Augen",
+    "goldene Accessoires"
+  ],
+  "reference_image": "assets/reference/characters/bianca-sterling.png",
+  "poses": [
+    "Eleganter Stand",
+    "Mit Cocktail",
+    "Sitzend im Lounge-Bereich",
+    "Blick über die Schulter"
+  ],
+  "expressions": [
+    "Sanftes Lächeln",
+    "Verspielt / nachdenklich",
+    "Überrascht, offener Mund (oh)",
+    "Genervt / skeptisch"
+  ],
+  "base_style_prompt": "Polished semi-realistic 2D character illustration, consistent mature facial features, luxurious gold character-sheet typography on black background, magenta rim lighting, sharp fashion detail, four full-body poses and four facial closeups.",
+  "identity_anchor_prompt": "Use the canonical reference image for Bianca Sterling as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange glatte champagnerblonde Haare, blaue Augen, goldene Accessoires",
+  "scene_template": "Use the canonical reference image for Bianca Sterling as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange glatte champagnerblonde Haare, blaue Augen, goldene Accessoires Put the person in [SCENE], wearing [OUTFIT], with [POSE], [EXPRESSION] and [CAMERA ANGLE].",
+  "variant_images": [],
+  "asset_status": "Original-PNG im vollständigen Projekt-ZIP, noch nicht über GitHub API hochgeladen."
+}

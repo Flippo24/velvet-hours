@@ -37,3 +37,29 @@ Die Originalgrafiken sollten bei zukünftigen Varianten als primäre Bildreferen
 - `nora-quinn.png` · Nora Quinn
 
 Die **11 neu hinzugekommenen Bilder** (8 kanonische Bögen, 3 Varianten) sind im aktualisierten Projekt-ZIP verfügbar, nicht in GitHub. Insgesamt sind 30 Figurenprofile und Prompt-Packs im Repository dokumentiert.
+
+## Neue Figuren: Sommer, Korsett, Cocktailservice, Maid-Outfits
+
+- `lena-solis.png` · Lena Solis (summer)
+- `mila-hart.png` · Mila Hart (summer)
+- `skye-mercer.png` · Skye Mercer (summer)
+- `vivienne-cross.png` · Vivienne Cross (summer)
+- `clara-vane.png` · Clara Vane (corset)
+- `nadia-rue.png` · Nadia Rue (summer)
+- `seraphine-vale.png` · Seraphine Vale (corset)
+- `odessa-quinn.png` · Odessa Quinn (corset)
+- `bianca-sol.png` · Bianca Sol (corset)
+- `camille-hart.png` · Camille Hart (service)
+- `nina-vale.png` · Nina Vale (service)
+- `evelyn-frost.png` · Evelyn Frost (housekeeping)
+- `clara-monroe.png` · Clara Monroe (housekeeping)
+- `scarlett-vale.png` · Scarlett Vale (dress)
+- `bianca-sterling.png` · Bianca Sterling (dress)
+- `noelle-marot.png` · Noelle Marot (dress)
+- `colette-rose.png` · Colette Rose (housekeeping)
+- `mirelle-voss.png` · Mirelle Voss (housekeeping)
+- `cella-vale.png` · Cella Vale (housekeeping)
+- `noemi-hart.png` · Noemi Hart (housekeeping)
+- `variants/vivienne-cross-emerald-dress-01.png` · Kleidvariation Vivienne Cross
+
+**Wichtig:** Die neuen PNGs sind im ZIP, noch nicht in GitHub. Im Repo liegen zunächst Profile und Referenzpfade.

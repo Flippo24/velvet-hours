@@ -1,0 +1,32 @@
+{
+  "slug": "mirelle-voss",
+  "name": "Mirelle Voss",
+  "age": 34,
+  "role": "Zimmermädchen / Butlerteam",
+  "category": "housekeeping",
+  "appearance": "Lange glatte kupferrote Haare, grüne Augen, rubinrote Halskette",
+  "canonical_outfit": "Kurzes bordeauxrotes Korsett-Maid-Kleid mit weißer Schürze und Schleifen",
+  "identity_lock": [
+    "Lange glatte kupferrote Haare",
+    "grüne Augen",
+    "rubinrote Halskette"
+  ],
+  "reference_image": "assets/reference/characters/mirelle-voss.png",
+  "poses": [
+    "Stehend mit Staubwedel",
+    "Mit gefalteten Handtüchern",
+    "Kurze Pause",
+    "Blick über die Schulter"
+  ],
+  "expressions": [
+    "Sanftes Lächeln",
+    "Verspielt / nachdenklich",
+    "Überrascht, offener Mund (oh)",
+    "Genervt / skeptisch"
+  ],
+  "base_style_prompt": "Polished semi-realistic 2D character illustration, consistent mature facial features, luxurious gold character-sheet typography on black background, magenta rim lighting, sharp fashion detail, four full-body poses and four facial closeups.",
+  "identity_anchor_prompt": "Use the canonical reference image for Mirelle Voss as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange glatte kupferrote Haare, grüne Augen, rubinrote Halskette",
+  "scene_template": "Use the canonical reference image for Mirelle Voss as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange glatte kupferrote Haare, grüne Augen, rubinrote Halskette Put the person in [SCENE], wearing [OUTFIT], with [POSE], [EXPRESSION] and [CAMERA ANGLE].",
+  "variant_images": [],
+  "asset_status": "Original-PNG im vollständigen Projekt-ZIP, noch nicht über GitHub API hochgeladen."
+}

@@ -12,14 +12,14 @@ Plattformübergreifendes 18+-2D-Management- und Visual-Novel-Spiel. Der erste sp
 - `src/index.template.html`, `build.py`: reproduzierbare Standalone-Build-Generierung
 - `web/index.html`: standalone spielbarer Build
 - `src-tauri/`: vorbereitetes Tauri-2-Grundgerüst, noch nicht nativ getestet
-- `docs/characters/`, `data/characters/`: 30 Charakterprofile und maschinenlesbare Prompt-Packs
+- `docs/characters/`, `data/characters/`: 50 Charakterprofile und maschinenlesbare Prompt-Packs
 - `assets/reference/characters/`: kanonische Figuren-Referenzbilder
 - `docs/style/`, `docs/prompting/`: Stilbibel und Promptvorlagen
 
 ## Entwicklungs- und Laufzeitstatus
 
 - 4 illustrative Innenräume, 6 Figuren im derzeitigen Spielprototypen, 5 Gästetypen, 10 dynamische Ereignisse
-- 30 Figuren in der Character Bible: 14 Kern-/Glamourfiguren, 8 Tänzerinnen, 8 Alltags-/Bratfiguren
+- 50 Figuren in der Character Bible: 30 bisherige Figuren und 20 neue Service-, Sommer-, Korsett- und Abendkleidfiguren.
 - Spielsimulation aktuell in JavaScript, noch nicht in Rust/WASM
 - Kein implementierter Multiplayer; kein fertiger nativer Release; keine altersverifizierte Distribution
 
@@ -51,3 +51,9 @@ Die kanonischen PNG-Referenzbilder konnten über die GitHub-Dateischnittstelle n
 Acht Charaktere mit Identitätsprofilen und Prompts: Elise Rowan, Rosalie Quinn, Ivy Mercer, Nora Vale, Tessa Bloom, Marnie Vale, Juno Mercer, Nora Quinn. Für Elise, Rosalie und Tessa sind zusätzliche Looks/Posen unter `assets/reference/characters/variants/` spezifiziert.
 
 Die 11 neuen PNG-Originalbilder sind im Projekt-ZIP enthalten und **noch nicht auf GitHub**. Die Profile, Prompts und Dateipfade sind im Commit versioniert.
+
+## Erweiterung: 20 Figuren mit Service- und Maid-Outfits
+
+Die Character Bible hat jetzt **50 Figuren**. Dazu kommen Sommer-/Freizeitfiguren, Korsettlooks, kurze Abendkleider sowie acht neue Service- und Zimmerdienstfiguren. Eine zweite Variante für Vivienne Cross ist registriert.
+
+Die Originalbilder (PNG) sind im separat bereitgestellten vollständigen Archiv. Der GitHub-Commit enthält hier **nur Profile, Prompts und Referenzpfade**, nicht die PNG-Dateien. Siehe `docs/GITHUB-ASSET-SYNC.md`.

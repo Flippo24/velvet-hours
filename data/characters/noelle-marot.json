@@ -1,0 +1,31 @@
+{
+  "slug": "noelle-marot",
+  "name": "Noelle Marot",
+  "age": 32,
+  "role": "Abendbar / Cocktailservice",
+  "category": "dress",
+  "appearance": "Lange glatte dunkelbraun-schwarze Haare, rubinroter Anhänger",
+  "canonical_outfit": "Kurzes enges schwarzes Satinabendkleid mit goldenen Ornamenten",
+  "identity_lock": [
+    "Lange glatte dunkelbraun-schwarze Haare",
+    "rubinroter Anhänger"
+  ],
+  "reference_image": "assets/reference/characters/noelle-marot.png",
+  "poses": [
+    "Eleganter Stand",
+    "Mit Cocktail",
+    "Sitzend im Lounge-Bereich",
+    "Blick über die Schulter"
+  ],
+  "expressions": [
+    "Sanftes Lächeln",
+    "Verspielt / nachdenklich",
+    "Überrascht, offener Mund (oh)",
+    "Genervt / skeptisch"
+  ],
+  "base_style_prompt": "Polished semi-realistic 2D character illustration, consistent mature facial features, luxurious gold character-sheet typography on black background, magenta rim lighting, sharp fashion detail, four full-body poses and four facial closeups.",
+  "identity_anchor_prompt": "Use the canonical reference image for Noelle Marot as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange glatte dunkelbraun-schwarze Haare, rubinroter Anhänger",
+  "scene_template": "Use the canonical reference image for Noelle Marot as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange glatte dunkelbraun-schwarze Haare, rubinroter Anhänger Put the person in [SCENE], wearing [OUTFIT], with [POSE], [EXPRESSION] and [CAMERA ANGLE].",
+  "variant_images": [],
+  "asset_status": "Original-PNG im vollständigen Projekt-ZIP, noch nicht über GitHub API hochgeladen."
+}

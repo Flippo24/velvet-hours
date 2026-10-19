@@ -1,0 +1,32 @@
+{
+  "slug": "colette-rose",
+  "name": "Colette Rose",
+  "age": 33,
+  "role": "Zimmermädchen / Hausservice",
+  "category": "housekeeping",
+  "appearance": "Lange kastanienbraune glatte Haare, grüne Augen, goldene Herzohrringe",
+  "canonical_outfit": "Kurzes tailliertes schwarz-weißes Maid-Kleid, Spitzenrüschen und Schürze",
+  "identity_lock": [
+    "Lange kastanienbraune glatte Haare",
+    "grüne Augen",
+    "goldene Herzohrringe"
+  ],
+  "reference_image": "assets/reference/characters/colette-rose.png",
+  "poses": [
+    "Stehend mit Staubwedel",
+    "Mit gefalteten Handtüchern",
+    "Kurze Pause",
+    "Blick über die Schulter"
+  ],
+  "expressions": [
+    "Sanftes Lächeln",
+    "Verspielt / nachdenklich",
+    "Überrascht, offener Mund (oh)",
+    "Genervt / skeptisch"
+  ],
+  "base_style_prompt": "Polished semi-realistic 2D character illustration, consistent mature facial features, luxurious gold character-sheet typography on black background, magenta rim lighting, sharp fashion detail, four full-body poses and four facial closeups.",
+  "identity_anchor_prompt": "Use the canonical reference image for Colette Rose as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange kastanienbraune glatte Haare, grüne Augen, goldene Herzohrringe",
+  "scene_template": "Use the canonical reference image for Colette Rose as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange kastanienbraune glatte Haare, grüne Augen, goldene Herzohrringe Put the person in [SCENE], wearing [OUTFIT], with [POSE], [EXPRESSION] and [CAMERA ANGLE].",
+  "variant_images": [],
+  "asset_status": "Original-PNG im vollständigen Projekt-ZIP, noch nicht über GitHub API hochgeladen."
+}

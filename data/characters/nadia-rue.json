@@ -1,0 +1,31 @@
+{
+  "slug": "nadia-rue",
+  "name": "Nadia Rue",
+  "age": 31,
+  "role": "Salon / Cocktailservice",
+  "category": "summer",
+  "appearance": "Lange dunkle glatte Haare, warmer Teint und auffälliger goldener Schmuck",
+  "canonical_outfit": "Schwarz-goldenes figurbetontes elegantes Club-Outfit",
+  "identity_lock": [
+    "Lange dunkle glatte Haare",
+    "warmer Teint und auffälliger goldener Schmuck"
+  ],
+  "reference_image": "assets/reference/characters/nadia-rue.png",
+  "poses": [
+    "Aufrecht locker stehend",
+    "Dynamischer Spaziergang",
+    "Im Café sitzend",
+    "Blick über die Schulter"
+  ],
+  "expressions": [
+    "Sanftes Lächeln",
+    "Verspielt / nachdenklich",
+    "Überrascht, offener Mund (oh)",
+    "Genervt / skeptisch"
+  ],
+  "base_style_prompt": "Polished semi-realistic 2D character illustration, consistent mature facial features, luxurious gold character-sheet typography on black background, magenta rim lighting, sharp fashion detail, four full-body poses and four facial closeups.",
+  "identity_anchor_prompt": "Use the canonical reference image for Nadia Rue as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange dunkle glatte Haare, warmer Teint und auffälliger goldener Schmuck",
+  "scene_template": "Use the canonical reference image for Nadia Rue as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange dunkle glatte Haare, warmer Teint und auffälliger goldener Schmuck Put the person in [SCENE], wearing [OUTFIT], with [POSE], [EXPRESSION] and [CAMERA ANGLE].",
+  "variant_images": [],
+  "asset_status": "Original-PNG im vollständigen Projekt-ZIP, noch nicht über GitHub API hochgeladen."
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "evelyn-frost",
+  "name": "Evelyn Frost",
+  "age": 28,
+  "role": "Zimmerdienst / Housekeeping",
+  "category": "housekeeping",
+  "appearance": "Lange glatte schwarze Haare, helle Haut, weißes Haarhäubchen",
+  "canonical_outfit": "Schwarz-weißes tailliertes Kleid mit Spitzenbesatz, Schürze und Pumps",
+  "identity_lock": [
+    "Lange glatte schwarze Haare",
+    "helle Haut",
+    "weißes Haarhäubchen"
+  ],
+  "reference_image": "assets/reference/characters/evelyn-frost.png",
+  "poses": [
+    "Stehend mit Staubwedel",
+    "Mit gefalteten Handtüchern",
+    "Kurze Pause",
+    "Blick über die Schulter"
+  ],
+  "expressions": [
+    "Sanftes Lächeln",
+    "Verspielt / nachdenklich",
+    "Überrascht, offener Mund (oh)",
+    "Genervt / skeptisch"
+  ],
+  "base_style_prompt": "Polished semi-realistic 2D character illustration, consistent mature facial features, luxurious gold character-sheet typography on black background, magenta rim lighting, sharp fashion detail, four full-body poses and four facial closeups.",
+  "identity_anchor_prompt": "Use the canonical reference image for Evelyn Frost as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange glatte schwarze Haare, helle Haut, weißes Haarhäubchen",
+  "scene_template": "Use the canonical reference image for Evelyn Frost as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange glatte schwarze Haare, helle Haut, weißes Haarhäubchen Put the person in [SCENE], wearing [OUTFIT], with [POSE], [EXPRESSION] and [CAMERA ANGLE].",
+  "variant_images": [],
+  "asset_status": "Original-PNG im vollständigen Projekt-ZIP, noch nicht über GitHub API hochgeladen."
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "nina-vale",
+  "name": "Nina Vale",
+  "age": 27,
+  "role": "Café-Bedienung / Tee-Lounge",
+  "category": "service",
+  "appearance": "Lange glatte honigblonde Haare, blaue Augen, weiße Haarschleife",
+  "canonical_outfit": "Kurzes cremegelbes Servicekleid mit weißer Schürze und hellen Pumps",
+  "identity_lock": [
+    "Lange glatte honigblonde Haare",
+    "blaue Augen",
+    "weiße Haarschleife"
+  ],
+  "reference_image": "assets/reference/characters/nina-vale.png",
+  "poses": [
+    "Für Bedienung bereit",
+    "Mit Tablett und Getränken",
+    "Sitzpause",
+    "Blick über die Schulter"
+  ],
+  "expressions": [
+    "Sanftes Lächeln",
+    "Verspielt / nachdenklich",
+    "Überrascht, offener Mund (oh)",
+    "Genervt / skeptisch"
+  ],
+  "base_style_prompt": "Polished semi-realistic 2D character illustration, consistent mature facial features, luxurious gold character-sheet typography on black background, magenta rim lighting, sharp fashion detail, four full-body poses and four facial closeups.",
+  "identity_anchor_prompt": "Use the canonical reference image for Nina Vale as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange glatte honigblonde Haare, blaue Augen, weiße Haarschleife",
+  "scene_template": "Use the canonical reference image for Nina Vale as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange glatte honigblonde Haare, blaue Augen, weiße Haarschleife Put the person in [SCENE], wearing [OUTFIT], with [POSE], [EXPRESSION] and [CAMERA ANGLE].",
+  "variant_images": [],
+  "asset_status": "Original-PNG im vollständigen Projekt-ZIP, noch nicht über GitHub API hochgeladen."
+}

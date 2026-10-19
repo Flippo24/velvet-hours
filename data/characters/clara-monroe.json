@@ -1,0 +1,32 @@
+{
+  "slug": "clara-monroe",
+  "name": "Clara Monroe",
+  "age": 29,
+  "role": "Zimmerdienst / Wäscheservice",
+  "category": "housekeeping",
+  "appearance": "Lange glatte kupferrote Haare, grüne Augen, rote Schmuckakzente",
+  "canonical_outfit": "Bordeauxfarbenes tailliertes Dienstmädchenkleid, weiße Schürze und rote Pumps",
+  "identity_lock": [
+    "Lange glatte kupferrote Haare",
+    "grüne Augen",
+    "rote Schmuckakzente"
+  ],
+  "reference_image": "assets/reference/characters/clara-monroe.png",
+  "poses": [
+    "Stehend mit Staubwedel",
+    "Mit gefalteten Handtüchern",
+    "Kurze Pause",
+    "Blick über die Schulter"
+  ],
+  "expressions": [
+    "Sanftes Lächeln",
+    "Verspielt / nachdenklich",
+    "Überrascht, offener Mund (oh)",
+    "Genervt / skeptisch"
+  ],
+  "base_style_prompt": "Polished semi-realistic 2D character illustration, consistent mature facial features, luxurious gold character-sheet typography on black background, magenta rim lighting, sharp fashion detail, four full-body poses and four facial closeups.",
+  "identity_anchor_prompt": "Use the canonical reference image for Clara Monroe as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange glatte kupferrote Haare, grüne Augen, rote Schmuckakzente",
+  "scene_template": "Use the canonical reference image for Clara Monroe as the primary identity anchor. Preserve the same adult face, hair, eyes, complexion, body proportions and signature accessories; do not blend with other characters. Lange glatte kupferrote Haare, grüne Augen, rote Schmuckakzente Put the person in [SCENE], wearing [OUTFIT], with [POSE], [EXPRESSION] and [CAMERA ANGLE].",
+  "variant_images": [],
+  "asset_status": "Original-PNG im vollständigen Projekt-ZIP, noch nicht über GitHub API hochgeladen."
+}
