@@ -2,7 +2,7 @@
   "schema_version": 2,
   "version": "0.2",
   "status": "work-in-progress",
-  "converted": 40,
+  "converted": 50,
   "target": 52,
   "character_refs": [
     {
@@ -304,13 +304,94 @@
       "batch": 4,
       "reference_image": "assets/reference/characters/v0.2/lilith-voss.png",
       "sha256": "6ef5a86ce6cd72b4a07180348d328073be34785da246d53d00e0ce7c7c3380e3"
+    },
+    {
+      "slug": "marigold-sloane",
+      "name": "Marigold Sloane",
+      "role": "Goldene Blonde Tänzerin",
+      "batch": 5,
+      "reference_image": "assets/reference/characters/v0.2/marigold-sloane.png",
+      "sha256": "435e4b38d928ad1f87dc3e4d3c4e00e03978bba766e7901104f4c99396fdf495"
+    },
+    {
+      "slug": "mila-hart",
+      "name": "Mila Hart",
+      "role": "Pool- und Caféservice",
+      "batch": 5,
+      "reference_image": "assets/reference/characters/v0.2/mila-hart.png",
+      "sha256": "10516a34acaef991dc40cac3bc7ef3b06cb0976489d74ea94f282f75b9174c9e"
+    },
+    {
+      "slug": "mirelle-voss",
+      "name": "Mirelle Voss",
+      "role": "Zimmermädchen / Butlerteam",
+      "batch": 5,
+      "reference_image": "assets/reference/characters/v0.2/mirelle-voss.png",
+      "sha256": "1fa388090111a72e1c986b18d2a68944557746ecb5a16daeff0fe6a4c6474d96"
+    },
+    {
+      "slug": "nadia-rue",
+      "name": "Nadia Rue",
+      "role": "Salon / Cocktailservice",
+      "batch": 5,
+      "reference_image": "assets/reference/characters/v0.2/nadia-rue.png",
+      "sha256": "c07892b638301930e832fb4d94d27c59696cd5eb6bc42930280108a134bf6ac6"
+    },
+    {
+      "slug": "nina-vale",
+      "name": "Nina Vale",
+      "role": "Café-Bedienung / Tee-Lounge",
+      "batch": 5,
+      "reference_image": "assets/reference/characters/v0.2/nina-vale.png",
+      "sha256": "714aa3061f5adeceda36c1a3e2b504d1727857ad0234a0f42b634b107b394f60"
+    },
+    {
+      "slug": "noelle-marot",
+      "name": "Noelle Marot",
+      "role": "Abendbar / Cocktailservice",
+      "batch": 5,
+      "reference_image": "assets/reference/characters/v0.2/noelle-marot.png",
+      "sha256": "4bfdb0b6a5a664bc14feb677e8ef5b4d63528094878cf427a38ea8cca2111831"
+    },
+    {
+      "slug": "noemi-hart",
+      "name": "Noemi Hart",
+      "role": "Zimmermädchen / Nachtservice",
+      "batch": 5,
+      "reference_image": "assets/reference/characters/v0.2/noemi-hart.png",
+      "sha256": "fa6b940aebf51e07bba223d71aa65721890fb0004178c4cab5d47cc743e5de4d"
+    },
+    {
+      "slug": "nova-quinn",
+      "name": "Nova Quinn",
+      "role": "Braut-Ikone / Fantasy Bridal Muse",
+      "batch": 5,
+      "reference_image": "assets/reference/characters/v0.2/nova-quinn.png",
+      "sha256": "8860b1051a1b557b5d3c6303c1c31d6d2e1f0ba4ab1bdd7530cf6dae441ed49c"
+    },
+    {
+      "slug": "odessa-quinn",
+      "name": "Odessa Quinn",
+      "role": "Rose-Parlor / Gastgeberin",
+      "batch": 5,
+      "reference_image": "assets/reference/characters/v0.2/odessa-quinn.png",
+      "sha256": "38ebbf6446283e89e5881f7de24022a53d0827c8691b55992246d2ed824bcf9e"
+    },
+    {
+      "slug": "scarlett-vale",
+      "name": "Scarlett Vale",
+      "role": "Cocktaillounge / VIP-Service",
+      "batch": 5,
+      "reference_image": "assets/reference/characters/v0.2/scarlett-vale.png",
+      "sha256": "3f8faa63d92c673e715de8d62c72329209e25701a24ef78eb15d13c2d639c913"
     }
   ],
-  "remaining": 12,
+  "remaining": 2,
   "batches_complete": [
     1,
     2,
     3,
-    4
+    4,
+    5
   ]
 }

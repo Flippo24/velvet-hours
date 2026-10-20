@@ -63,3 +63,9 @@ Die Originalbilder (PNG) sind im separat bereitgestellten vollständigen Archiv.
 **40 von 52** Charakteren sind als neue Velvet-Noir-Graphic-Novel-Illustrationen fertig. Die vollständigen PNG-Originale (40 Stück), Profile, Prompts und die bisherigen v0.1-Grafiken liegen im Gesamtarchiv `velvet-hours-v0.2-batches-01-04-40-charaktere-vollstaendig.zip`.
 
 **GitHub-Status:** Der Commit enthält die Text-Profile, Prompt-Packs und Bild-Manifeste; die PNG-Binärdateien müssen aus dem ZIP über einen lokalen Git-Checkout ergänzt werden. Die Referenzen in `assets/reference/characters/v0.2/` sind bis dahin im Repo noch nicht auflösbar. Anleitung: `docs/V0.2-IMAGE-SYNC.md`.
+
+## Velvet Hours v0.2 · Batch 5
+
+Zehn weitere neu gestaltete Figuren: Marigold Sloane, Mila Hart, Mirelle Voss, Nadia Rue, Nina Vale, Noelle Marot, Noemi Hart, Nova Quinn, Odessa Quinn, Scarlett Vale.
+
+**50 von 52** v0.2-Figuren sind komplett neu illustriert. Die 50 hochauflösenden v0.2-PNGs und die unveränderte v0.1-Sammlung liegen im vollständigen Projekt-ZIP. Die GitHub-PNG-Binärdaten müssen noch aus dem Archiv synchronisiert werden. Siehe `docs/V0.2-IMAGE-SYNC.md`.

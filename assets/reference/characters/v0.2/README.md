@@ -48,3 +48,17 @@
 - `lilith-voss.png` · Lilith Voss
 
 **Neu: 20 PNGs in beiden Batches.** Im Archiv bereits enthalten, auf GitHub steht der Binärdatenimport noch aus. Alle Bild-SHA-256 stehen in den zugehörigen JSON-Profilen.
+
+## Batch 5
+- `marigold-sloane.png` · Marigold Sloane
+- `mila-hart.png` · Mila Hart
+- `mirelle-voss.png` · Mirelle Voss
+- `nadia-rue.png` · Nadia Rue
+- `nina-vale.png` · Nina Vale
+- `noelle-marot.png` · Noelle Marot
+- `noemi-hart.png` · Noemi Hart
+- `nova-quinn.png` · Nova Quinn
+- `odessa-quinn.png` · Odessa Quinn
+- `scarlett-vale.png` · Scarlett Vale
+
+**Status:** 50 kanonische PNGs im vollständigen Projektarchiv; hochauflösende Binärbilder sind über diesen GitHub-Commit noch nicht verfügbar.

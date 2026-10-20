@@ -1,0 +1,27 @@
+{
+  "schema_version": 2,
+  "project": "Velvet Hours",
+  "art_version": "0.2",
+  "slug": "scarlett-vale",
+  "name": "Scarlett Vale",
+  "role": "Cocktaillounge / VIP-Service",
+  "batch": 5,
+  "identity_version": "v0.2-canonical",
+  "reference_image": "assets/reference/characters/v0.2/scarlett-vale.png",
+  "sha256": "3f8faa63d92c673e715de8d62c72329209e25701a24ef78eb15d13c2d639c913",
+  "source_creation": "fresh_zero_shot_v0.2_redesign",
+  "original_concept_brief": "long straight copper-red hair, emerald eyes, short burgundy satin fitted dress, lace detail",
+  "original_role_wardrobe_brief": "Kurzes eng anliegendes bordeauxrotes Satinkleid mit schwarzem Spitzenrand, feine Strümpfe, rote Pumps",
+  "rendered_style": "Velvet Noir Graphic Novel",
+  "style_specification": "docs/style/velvet-noir-graphic-novel-v0.2.md",
+  "identity_anchor_prompt": "Use ONLY the approved v0.2 canonical illustration of Scarlett Vale as the new character identity reference, preserve the exact redesigned face, age appearance, hair, eyes, anatomy, distinguishing facial details and personality cues. Ignore all v0.1 image references. Render further poses and outfits consistently in the Velvet Noir Graphic Novel style with hand-inked contours and painterly noir shading.",
+  "new_character_prompt": "Create a completely NEW and distinctly adult fictional character named Scarlett Vale, role: Cocktaillounge / VIP-Service. Written concept: long straight copper-red hair, emerald eyes, short burgundy satin fitted dress, lace detail. Outfit brief: Kurzes eng anliegendes bordeauxrotes Satinkleid mit schwarzem Spitzenrand, feine Strümpfe, rote Pumps. Use Velvet Noir Graphic Novel, sophisticated semi-realistic Western graphic novel comic book art, rich hand-inked contours, natural adult anatomy, softly textured painterly shading, amber low-key noir lighting, elegant art deco composition and distinct facial features. Do NOT use v0.1 pictures as image references.",
+  "variant_prompt": "Use ONLY the approved v0.2 canonical illustration of Scarlett Vale as the new character identity reference, preserve the exact redesigned face, age appearance, hair, eyes, anatomy, distinguishing facial details and personality cues. Ignore all v0.1 image references. Render further poses and outfits consistently in the Velvet Noir Graphic Novel style with hand-inked contours and painterly noir shading. Set [POSE], [EXPRESSION], [OUTFIT], [SCENE] and [CAMERA ANGLE].",
+  "do_not_drift": [
+    "No use of v0.1 illustrations as visual references",
+    "Keep v0.2 facial identity and adult proportions consistent",
+    "Keep cinematic noir ink and painterly rendering",
+    "Do not overwrite the accepted v0.2 canonical PNG"
+  ],
+  "image_upload_status": "Present in full v0.2 archive, GitHub binary upload must be verified separately."
+}

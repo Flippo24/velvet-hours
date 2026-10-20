@@ -1,0 +1,27 @@
+{
+  "schema_version": 2,
+  "project": "Velvet Hours",
+  "art_version": "0.2",
+  "slug": "marigold-sloane",
+  "name": "Marigold Sloane",
+  "role": "Goldene Blonde Tänzerin",
+  "batch": 5,
+  "identity_version": "v0.2-canonical",
+  "reference_image": "assets/reference/characters/v0.2/marigold-sloane.png",
+  "sha256": "435e4b38d928ad1f87dc3e4d3c4e00e03978bba766e7901104f4c99396fdf495",
+  "source_creation": "fresh_zero_shot_v0.2_redesign",
+  "original_concept_brief": "Adult blonde dancer with honey-blonde curls, amber jewel styling, and a warm golden stage presence.",
+  "original_role_wardrobe_brief": "Gold-amber jeweled costume with layered drapes and ornate heels.",
+  "rendered_style": "Velvet Noir Graphic Novel",
+  "style_specification": "docs/style/velvet-noir-graphic-novel-v0.2.md",
+  "identity_anchor_prompt": "Use ONLY the approved v0.2 canonical illustration of Marigold Sloane as the new character identity reference, preserve the exact redesigned face, age appearance, hair, eyes, anatomy, distinguishing facial details and personality cues. Ignore all v0.1 image references. Render further poses and outfits consistently in the Velvet Noir Graphic Novel style with hand-inked contours and painterly noir shading.",
+  "new_character_prompt": "Create a completely NEW and distinctly adult fictional character named Marigold Sloane, role: Goldene Blonde Tänzerin. Written concept: Adult blonde dancer with honey-blonde curls, amber jewel styling, and a warm golden stage presence.. Outfit brief: Gold-amber jeweled costume with layered drapes and ornate heels.. Use Velvet Noir Graphic Novel, sophisticated semi-realistic Western graphic novel comic book art, rich hand-inked contours, natural adult anatomy, softly textured painterly shading, amber low-key noir lighting, elegant art deco composition and distinct facial features. Do NOT use v0.1 pictures as image references.",
+  "variant_prompt": "Use ONLY the approved v0.2 canonical illustration of Marigold Sloane as the new character identity reference, preserve the exact redesigned face, age appearance, hair, eyes, anatomy, distinguishing facial details and personality cues. Ignore all v0.1 image references. Render further poses and outfits consistently in the Velvet Noir Graphic Novel style with hand-inked contours and painterly noir shading. Set [POSE], [EXPRESSION], [OUTFIT], [SCENE] and [CAMERA ANGLE].",
+  "do_not_drift": [
+    "No use of v0.1 illustrations as visual references",
+    "Keep v0.2 facial identity and adult proportions consistent",
+    "Keep cinematic noir ink and painterly rendering",
+    "Do not overwrite the accepted v0.2 canonical PNG"
+  ],
+  "image_upload_status": "Present in full v0.2 archive, GitHub binary upload must be verified separately."
+}

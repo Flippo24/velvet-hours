@@ -1,0 +1,27 @@
+{
+  "schema_version": 2,
+  "project": "Velvet Hours",
+  "art_version": "0.2",
+  "slug": "odessa-quinn",
+  "name": "Odessa Quinn",
+  "role": "Rose-Parlor / Gastgeberin",
+  "batch": 5,
+  "identity_version": "v0.2-canonical",
+  "reference_image": "assets/reference/characters/v0.2/odessa-quinn.png",
+  "sha256": "38ebbf6446283e89e5881f7de24022a53d0827c8691b55992246d2ed824bcf9e",
+  "source_creation": "fresh_zero_shot_v0.2_redesign",
+  "original_concept_brief": "long copper-red smooth hair, green eyes, ivory-pink rose floral corset, dusty rose skirt",
+  "original_role_wardrobe_brief": "Roséfarbenes Blumenkorsett, kurzer gestufter Rock, helle Pumps und rosiger Schmuck",
+  "rendered_style": "Velvet Noir Graphic Novel",
+  "style_specification": "docs/style/velvet-noir-graphic-novel-v0.2.md",
+  "identity_anchor_prompt": "Use ONLY the approved v0.2 canonical illustration of Odessa Quinn as the new character identity reference, preserve the exact redesigned face, age appearance, hair, eyes, anatomy, distinguishing facial details and personality cues. Ignore all v0.1 image references. Render further poses and outfits consistently in the Velvet Noir Graphic Novel style with hand-inked contours and painterly noir shading.",
+  "new_character_prompt": "Create a completely NEW and distinctly adult fictional character named Odessa Quinn, role: Rose-Parlor / Gastgeberin. Written concept: long copper-red smooth hair, green eyes, ivory-pink rose floral corset, dusty rose skirt. Outfit brief: Roséfarbenes Blumenkorsett, kurzer gestufter Rock, helle Pumps und rosiger Schmuck. Use Velvet Noir Graphic Novel, sophisticated semi-realistic Western graphic novel comic book art, rich hand-inked contours, natural adult anatomy, softly textured painterly shading, amber low-key noir lighting, elegant art deco composition and distinct facial features. Do NOT use v0.1 pictures as image references.",
+  "variant_prompt": "Use ONLY the approved v0.2 canonical illustration of Odessa Quinn as the new character identity reference, preserve the exact redesigned face, age appearance, hair, eyes, anatomy, distinguishing facial details and personality cues. Ignore all v0.1 image references. Render further poses and outfits consistently in the Velvet Noir Graphic Novel style with hand-inked contours and painterly noir shading. Set [POSE], [EXPRESSION], [OUTFIT], [SCENE] and [CAMERA ANGLE].",
+  "do_not_drift": [
+    "No use of v0.1 illustrations as visual references",
+    "Keep v0.2 facial identity and adult proportions consistent",
+    "Keep cinematic noir ink and painterly rendering",
+    "Do not overwrite the accepted v0.2 canonical PNG"
+  ],
+  "image_upload_status": "Present in full v0.2 archive, GitHub binary upload must be verified separately."
+}

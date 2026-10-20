@@ -1,0 +1,27 @@
+{
+  "schema_version": 2,
+  "project": "Velvet Hours",
+  "art_version": "0.2",
+  "slug": "nadia-rue",
+  "name": "Nadia Rue",
+  "role": "Salon / Cocktailservice",
+  "batch": 5,
+  "identity_version": "v0.2-canonical",
+  "reference_image": "assets/reference/characters/v0.2/nadia-rue.png",
+  "sha256": "c07892b638301930e832fb4d94d27c59696cd5eb6bc42930280108a134bf6ac6",
+  "source_creation": "fresh_zero_shot_v0.2_redesign",
+  "original_concept_brief": "long dark hair, warm complexion, black gold outfit, bold gold accents",
+  "original_role_wardrobe_brief": "Schwarz-goldenes elegantes Club-Outfit, figurbetontes Kleid oder Corset-Elemente",
+  "rendered_style": "Velvet Noir Graphic Novel",
+  "style_specification": "docs/style/velvet-noir-graphic-novel-v0.2.md",
+  "identity_anchor_prompt": "Use ONLY the approved v0.2 canonical illustration of Nadia Rue as the new character identity reference, preserve the exact redesigned face, age appearance, hair, eyes, anatomy, distinguishing facial details and personality cues. Ignore all v0.1 image references. Render further poses and outfits consistently in the Velvet Noir Graphic Novel style with hand-inked contours and painterly noir shading.",
+  "new_character_prompt": "Create a completely NEW and distinctly adult fictional character named Nadia Rue, role: Salon / Cocktailservice. Written concept: long dark hair, warm complexion, black gold outfit, bold gold accents. Outfit brief: Schwarz-goldenes elegantes Club-Outfit, figurbetontes Kleid oder Corset-Elemente. Use Velvet Noir Graphic Novel, sophisticated semi-realistic Western graphic novel comic book art, rich hand-inked contours, natural adult anatomy, softly textured painterly shading, amber low-key noir lighting, elegant art deco composition and distinct facial features. Do NOT use v0.1 pictures as image references.",
+  "variant_prompt": "Use ONLY the approved v0.2 canonical illustration of Nadia Rue as the new character identity reference, preserve the exact redesigned face, age appearance, hair, eyes, anatomy, distinguishing facial details and personality cues. Ignore all v0.1 image references. Render further poses and outfits consistently in the Velvet Noir Graphic Novel style with hand-inked contours and painterly noir shading. Set [POSE], [EXPRESSION], [OUTFIT], [SCENE] and [CAMERA ANGLE].",
+  "do_not_drift": [
+    "No use of v0.1 illustrations as visual references",
+    "Keep v0.2 facial identity and adult proportions consistent",
+    "Keep cinematic noir ink and painterly rendering",
+    "Do not overwrite the accepted v0.2 canonical PNG"
+  ],
+  "image_upload_status": "Present in full v0.2 archive, GitHub binary upload must be verified separately."
+}
