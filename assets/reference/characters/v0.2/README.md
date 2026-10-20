@@ -22,3 +22,29 @@
 - `ivory-hart.png` — Ivory Hart
 
 **Status:** Die PNG-Dateien sind im vollständigen ZIP-Archiv vorhanden. Ihr Binär-Upload auf GitHub steht noch aus. V0.1-Originale nicht überschreiben.
+
+## Batch 3
+- `elise-rowan.png` · Elise Rowan
+- `rosalie-quinn.png` · Rosalie Quinn
+- `ivy-mercer.png` · Ivy Mercer
+- `nora-vale.png` · Nora Vale
+- `tessa-bloom.png` · Tessa Bloom
+- `marnie-vale.png` · Marnie Vale
+- `juno-mercer.png` · Juno Mercer
+- `nora-quinn.png` · Nora Quinn
+- `vivienne-cross.png` · Vivienne Cross
+- `bianca-sterling.png` · Bianca Sterling
+
+## Batch 4
+- `bianca-sol.png` · Bianca Sol
+- `camille-hart.png` · Camille Hart
+- `celeste-monroe.png` · Celeste Monroe
+- `cella-vale.png` · Cella Vale
+- `clara-monroe.png` · Clara Monroe
+- `clara-vane.png` · Clara Vane
+- `colette-rose.png` · Colette Rose
+- `evelyn-frost.png` · Evelyn Frost
+- `lena-solis.png` · Lena Solis
+- `lilith-voss.png` · Lilith Voss
+
+**Neu: 20 PNGs in beiden Batches.** Im Archiv bereits enthalten, auf GitHub steht der Binärdatenimport noch aus. Alle Bild-SHA-256 stehen in den zugehörigen JSON-Profilen.

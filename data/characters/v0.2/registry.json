@@ -2,7 +2,7 @@
   "schema_version": 2,
   "version": "0.2",
   "status": "work-in-progress",
-  "converted": 20,
+  "converted": 40,
   "target": 52,
   "character_refs": [
     {
@@ -144,6 +144,173 @@
       "role": "Mondschein-Tänzerin",
       "batch": 2,
       "reference_image": "assets/reference/characters/v0.2/ivory-hart.png"
+    },
+    {
+      "slug": "elise-rowan",
+      "name": "Elise Rowan",
+      "role": "Gästebetreuung / Mode-Influencerin",
+      "batch": 3,
+      "reference_image": "assets/reference/characters/v0.2/elise-rowan.png",
+      "sha256": "7ae97d60f6bc5b7010236bd6c493cdf479db89d0fece30aeb30cec0c8327e874"
+    },
+    {
+      "slug": "rosalie-quinn",
+      "name": "Rosalie Quinn",
+      "role": "Lounge-Gastgeberin / Eventkoordinatorin",
+      "batch": 3,
+      "reference_image": "assets/reference/characters/v0.2/rosalie-quinn.png",
+      "sha256": "21b91d1a63c46a2aaf5c17dfa83eac5e361c98040288140d1bb2e545e6e61a8e"
+    },
+    {
+      "slug": "ivy-mercer",
+      "name": "Ivy Mercer",
+      "role": "Bartresen / Empfang",
+      "batch": 3,
+      "reference_image": "assets/reference/characters/v0.2/ivy-mercer.png",
+      "sha256": "5dba8e6c1da4f600c0973ba81507d5ed2df43a7efaa90a586398b0fb8123b57c"
+    },
+    {
+      "slug": "nora-vale",
+      "name": "Nora Vale",
+      "role": "Kundenmanagement / Office",
+      "batch": 3,
+      "reference_image": "assets/reference/characters/v0.2/nora-vale.png",
+      "sha256": "33cd6698d07e97e948656c35ffa10919b7fc90f993e2f71eeff2f70a09a66503"
+    },
+    {
+      "slug": "tessa-bloom",
+      "name": "Tessa Bloom",
+      "role": "Social Media / Show-Promotion",
+      "batch": 3,
+      "reference_image": "assets/reference/characters/v0.2/tessa-bloom.png",
+      "sha256": "f17d9b46df935f3ef5b54289942f7b004f70bc8615a2f45754e95a2ca8d74a89"
+    },
+    {
+      "slug": "marnie-vale",
+      "name": "Marnie Vale",
+      "role": "Lounge-Team / Kaffee-Bar",
+      "batch": 3,
+      "reference_image": "assets/reference/characters/v0.2/marnie-vale.png",
+      "sha256": "34e1ca49e1de21f68382d7192454a6b8d184e0681914919262ea6cbd9f8aa357"
+    },
+    {
+      "slug": "juno-mercer",
+      "name": "Juno Mercer",
+      "role": "Service / Bar-Kollegin",
+      "batch": 3,
+      "reference_image": "assets/reference/characters/v0.2/juno-mercer.png",
+      "sha256": "daf4c32d67f8f347aa76e55fac59e8f545f654ef8cc8ff6e4f8d679a7b3aab72"
+    },
+    {
+      "slug": "nora-quinn",
+      "name": "Nora Quinn",
+      "role": "Assistant Manager / Reservierungen",
+      "batch": 3,
+      "reference_image": "assets/reference/characters/v0.2/nora-quinn.png",
+      "sha256": "9efe86fc38bf49520ab36b2213bec5a0357d30ced8c337f977d1e854fdb64f67"
+    },
+    {
+      "slug": "vivienne-cross",
+      "name": "Vivienne Cross",
+      "role": "VIP-Empfang / Cocktaillounge",
+      "batch": 3,
+      "reference_image": "assets/reference/characters/v0.2/vivienne-cross.png",
+      "sha256": "dc5ee570a9b4baa36e52eb5d4b7bcd9bae16428efd859dcfee4671d994d24128"
+    },
+    {
+      "slug": "bianca-sterling",
+      "name": "Bianca Sterling",
+      "role": "Empfang / Executive-Lounge",
+      "batch": 3,
+      "reference_image": "assets/reference/characters/v0.2/bianca-sterling.png",
+      "sha256": "c8869f6d18d1b1e867e2ab026274703952e499f1cc169bca42e97eb7ac0d9208"
+    },
+    {
+      "slug": "bianca-sol",
+      "name": "Bianca Sol",
+      "role": "Sommerempfang / Korsettmode",
+      "batch": 4,
+      "reference_image": "assets/reference/characters/v0.2/bianca-sol.png",
+      "sha256": "4092d29a3e84e2574e6a23411b19d2ae78fd0ab0f82419c8aa99f3a083ae38a7"
+    },
+    {
+      "slug": "camille-hart",
+      "name": "Camille Hart",
+      "role": "Cocktailkellnerin / Nachtservice",
+      "batch": 4,
+      "reference_image": "assets/reference/characters/v0.2/camille-hart.png",
+      "sha256": "2e616a1abef5e722b3450f4375168913b8eaea6764c034c2206fcd3269f1da0f"
+    },
+    {
+      "slug": "celeste-monroe",
+      "name": "Celeste Monroe",
+      "role": "Burlesque Blonde Diva",
+      "batch": 4,
+      "reference_image": "assets/reference/characters/v0.2/celeste-monroe.png",
+      "sha256": "073249d986113a5c03bec73dc0a0506c23e31b32da60ea5e64f462eabbbdfb31"
+    },
+    {
+      "slug": "cella-vale",
+      "name": "Cella Vale",
+      "role": "Frühstücksservice / Suitenpflege",
+      "batch": 4,
+      "reference_image": "assets/reference/characters/v0.2/cella-vale.png",
+      "sha256": "93027b94812cfa72960450c31bc8f52315b902d2c053e665351d891daeadea38"
+    },
+    {
+      "slug": "clara-monroe",
+      "name": "Clara Monroe",
+      "role": "Zimmerdienst / Wäscheservice",
+      "batch": 4,
+      "reference_image": "assets/reference/characters/v0.2/clara-monroe.png",
+      "sha256": "6d53c6a9e1875143dd00a00f19daa0a50d4a792b1ab717031bcadd4b20a7eee2"
+    },
+    {
+      "slug": "clara-vane",
+      "name": "Clara Vane",
+      "role": "Café-Events / private Gastgeberin",
+      "batch": 4,
+      "reference_image": "assets/reference/characters/v0.2/clara-vane.png",
+      "sha256": "20c9ebbf61ee289e9cafd1f34a84531811a659a10e9bb5d5fe1fe4a9b53507ba"
+    },
+    {
+      "slug": "colette-rose",
+      "name": "Colette Rose",
+      "role": "Zimmermädchen / Hausservice",
+      "batch": 4,
+      "reference_image": "assets/reference/characters/v0.2/colette-rose.png",
+      "sha256": "28ac028a7e8719b8ccc828c9e8a87230bb45e70d5d48656bacf203f7279dcec4"
+    },
+    {
+      "slug": "evelyn-frost",
+      "name": "Evelyn Frost",
+      "role": "Zimmerdienst / Housekeeping",
+      "batch": 4,
+      "reference_image": "assets/reference/characters/v0.2/evelyn-frost.png",
+      "sha256": "f40b18293f6664d466a8d41324f803de0017c49511e46c9358fb8ec62ced1c23"
+    },
+    {
+      "slug": "lena-solis",
+      "name": "Lena Solis",
+      "role": "Sommer-Lounge / Gästebetreuung",
+      "batch": 4,
+      "reference_image": "assets/reference/characters/v0.2/lena-solis.png",
+      "sha256": "ce45233442e0e94d08e3d768d919092c9f55fb3e84169eb0f19556576ed46776"
+    },
+    {
+      "slug": "lilith-voss",
+      "name": "Lilith Voss",
+      "role": "Braut-Ikone / Crimson Bridal Muse",
+      "batch": 4,
+      "reference_image": "assets/reference/characters/v0.2/lilith-voss.png",
+      "sha256": "6ef5a86ce6cd72b4a07180348d328073be34785da246d53d00e0ce7c7c3380e3"
     }
+  ],
+  "remaining": 12,
+  "batches_complete": [
+    1,
+    2,
+    3,
+    4
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "schema_version": 2,
+  "project": "Velvet Hours",
+  "art_version": "0.2",
+  "slug": "celeste-monroe",
+  "name": "Celeste Monroe",
+  "role": "Burlesque Blonde Diva",
+  "batch": 4,
+  "identity_version": "v0.2-canonical",
+  "reference_image": "assets/reference/characters/v0.2/celeste-monroe.png",
+  "sha256": "073249d986113a5c03bec73dc0a0506c23e31b32da60ea5e64f462eabbbdfb31",
+  "source_creation": "fresh_zero_shot_v0.2_redesign",
+  "original_concept_brief": "Erwachsene champagnerblonde Bühnenfigur mit grünen Augen und rubinroten Akzenten",
+  "original_role_wardrobe_brief": "Champagnergoldenes Burlesque-Ensemble, rote Federn und Edelsteine",
+  "rendered_style": "Velvet Noir Graphic Novel",
+  "style_specification": "docs/style/velvet-noir-graphic-novel-v0.2.md",
+  "identity_anchor_prompt": "Use the newly approved v0.2 reference image of Celeste Monroe as the sole identity anchor. Preserve the newly generated adult face, realistic anatomy, hair, complexion, costume signatures and identifying details. Keep premium Western graphic novel linework, painterly shading, cinematic noir lighting and consistent expression/pose identity. Never trace or reference the old v0.1 illustration.",
+  "new_character_prompt": "Create a completely newly designed original adult character called Celeste Monroe (role: Burlesque Blonde Diva). Character brief in words only: Erwachsene champagnerblonde Bühnenfigur mit grünen Augen und rubinroten Akzenten. Wardrobe: Champagnergoldenes Burlesque-Ensemble, rote Federn und Edelsteine. Use Velvet Noir Graphic Novel style: semi-realistic Western graphic novel, refined hand-inked black contours, cinematic amber chiaroscuro, natural skin, realistic adult anatomy, painterly shading, editorial Art Deco black-and-antique-gold character sheet, full-body pose and expression panels. Do not use earlier v0.1 artwork as image input.",
+  "variant_prompt": "Use the newly approved v0.2 reference image of Celeste Monroe as the sole identity anchor. Preserve the newly generated adult face, realistic anatomy, hair, complexion, costume signatures and identifying details. Keep premium Western graphic novel linework, painterly shading, cinematic noir lighting and consistent expression/pose identity. Never trace or reference the old v0.1 illustration. Show [POSE] [OUTFIT] [EXPRESSION] [SCENE] [CAMERA].",
+  "do_not_drift": [
+    "No v0.1 image reference or tracing",
+    "Preserve new v0.2 facial identity across scenes",
+    "Realistic adult anatomy and painterly noir comic style",
+    "Do not overwrite canonical original"
+  ],
+  "image_upload_status": "Original PNG is verified in the complete v0.2 archive, not yet uploaded into GitHub."
+}
