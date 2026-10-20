@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "project": "Velvet Hours",
+  "art_version": "0.2",
+  "slug": "iris-vale",
+  "name": "Iris Vale",
+  "role": "Strategin und Betriebsleiterin",
+  "batch": 1,
+  "identity_version": "v0.2-canonical",
+  "reference_image": "assets/reference/characters/v0.2/iris-vale.png",
+  "source_creation": "fresh_zero_shot_v0.2_redesign",
+  "original_concept_brief": "Heller Teint, kurzer silber-lavendelfarbener Bob, grau-blaue Augen",
+  "original_role_wardrobe_brief": "Kobaltblauer Hosenanzug über schwarzem Top",
+  "rendered_style": "Velvet Noir Graphic Novel",
+  "style_specification": "docs/style/velvet-noir-graphic-novel-v0.2.md",
+  "identity_anchor_prompt": "Use the accepted v0.2 canonical illustration of Iris Vale as the sole visual identity reference. Preserve this freshly redesigned clearly adult character's face, hairstyle, eyes, skin tone, natural proportions and signature accessories. Never use the old v0.1 images.",
+  "new_character_prompt": "Create a completely NEW original adult character named Iris Vale, role Strategin und Betriebsleiterin. Written concept only: Heller Teint, kurzer silber-lavendelfarbener Bob, grau-blaue Augen. Wardrobe idea: Kobaltblauer Hosenanzug über schwarzem Top. Use Velvet Noir Graphic Novel style: hand-inked Western comic contours, painterly shading, noir ambience, believable anatomy, varied adult faces, amber lighting and understated gold art-deco editorial character-sheet typography. Do not trace, imitate or reference any earlier version.",
+  "variant_prompt": "Use the accepted v0.2 canonical illustration of Iris Vale as the sole visual identity reference. Preserve this freshly redesigned clearly adult character's face, hairstyle, eyes, skin tone, natural proportions and signature accessories. Never use the old v0.1 images. New [SCENE] [POSE] [OUTFIT] [EXPRESSION] and [CAMERA], keeping identity consistent.",
+  "do_not_drift": [
+    "Never trace or use v0.1 artwork",
+    "Keep v0.2 adult face and proportions consistent",
+    "Preserve sophisticated comic-ink and painterly noir aesthetic",
+    "Do not overwrite the v0.2 canonical PNG"
+  ],
+  "binary_asset_status": "PNG is in the supplied complete v0.2 ZIP; binary import to GitHub pending."
+}

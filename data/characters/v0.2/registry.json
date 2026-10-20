@@ -1,0 +1,149 @@
+{
+  "schema_version": 2,
+  "version": "0.2",
+  "status": "work-in-progress",
+  "converted": 20,
+  "target": 52,
+  "character_refs": [
+    {
+      "slug": "valeria-voss",
+      "name": "Valeria Voss",
+      "role": "Managerin und Gastgeberin",
+      "batch": 1,
+      "reference_image": "assets/reference/characters/v0.2/valeria-voss.png"
+    },
+    {
+      "slug": "selene-marot",
+      "name": "Selene Marot",
+      "role": "Luxus-Companion",
+      "batch": 1,
+      "reference_image": "assets/reference/characters/v0.2/selene-marot.png"
+    },
+    {
+      "slug": "amara-lux",
+      "name": "Amara Lux",
+      "role": "Showstar",
+      "batch": 1,
+      "reference_image": "assets/reference/characters/v0.2/amara-lux.png"
+    },
+    {
+      "slug": "iris-vale",
+      "name": "Iris Vale",
+      "role": "Strategin und Betriebsleiterin",
+      "batch": 1,
+      "reference_image": "assets/reference/characters/v0.2/iris-vale.png"
+    },
+    {
+      "slug": "dante-cross",
+      "name": "Dante Cross",
+      "role": "Barkeeper und Gastgeber",
+      "batch": 1,
+      "reference_image": "assets/reference/characters/v0.2/dante-cross.png"
+    },
+    {
+      "slug": "roxanne-kane",
+      "name": "Roxanne Kane",
+      "role": "Sängerin",
+      "batch": 1,
+      "reference_image": "assets/reference/characters/v0.2/roxanne-kane.png"
+    },
+    {
+      "slug": "lucien-vale",
+      "name": "Lucien Vale",
+      "role": "Androgyner Femboy-Companion",
+      "batch": 1,
+      "reference_image": "assets/reference/characters/v0.2/lucien-vale.png"
+    },
+    {
+      "slug": "mina-seraph",
+      "name": "Mina Seraph",
+      "role": "Transfeminine Showperformerin",
+      "batch": 1,
+      "reference_image": "assets/reference/characters/v0.2/mina-seraph.png"
+    },
+    {
+      "slug": "jules-mercer",
+      "name": "Jules Mercer",
+      "role": "Androgyner Barkeeper",
+      "batch": 1,
+      "reference_image": "assets/reference/characters/v0.2/jules-mercer.png"
+    },
+    {
+      "slug": "bianca-thorne",
+      "name": "Bianca Thorne",
+      "role": "Luxus-Companion",
+      "batch": 1,
+      "reference_image": "assets/reference/characters/v0.2/bianca-thorne.png"
+    },
+    {
+      "slug": "noor-sade",
+      "name": "Noor Sade",
+      "role": "Souveräne Velvet-Empress",
+      "batch": 2,
+      "reference_image": "assets/reference/characters/v0.2/noor-sade.png"
+    },
+    {
+      "slug": "cassian-rey",
+      "name": "Cassian Rey",
+      "role": "Luxus-Escort",
+      "batch": 2,
+      "reference_image": "assets/reference/characters/v0.2/cassian-rey.png"
+    },
+    {
+      "slug": "vesper-quinn",
+      "name": "Vesper Quinn",
+      "role": "Burlesque-Star",
+      "batch": 2,
+      "reference_image": "assets/reference/characters/v0.2/vesper-quinn.png"
+    },
+    {
+      "slug": "ariel-dusk",
+      "name": "Ariel Dusk",
+      "role": "Transfemininer Lounge-Star",
+      "batch": 2,
+      "reference_image": "assets/reference/characters/v0.2/ariel-dusk.png"
+    },
+    {
+      "slug": "saffron-blaze",
+      "name": "Saffron Blaze",
+      "role": "Feuer-Tänzerin",
+      "batch": 2,
+      "reference_image": "assets/reference/characters/v0.2/saffron-blaze.png"
+    },
+    {
+      "slug": "lyra-noctis",
+      "name": "Lyra Noctis",
+      "role": "Nocturne-Tänzerin",
+      "batch": 2,
+      "reference_image": "assets/reference/characters/v0.2/lyra-noctis.png"
+    },
+    {
+      "slug": "zuri-ember",
+      "name": "Zuri Ember",
+      "role": "Showtänzerin",
+      "batch": 2,
+      "reference_image": "assets/reference/characters/v0.2/zuri-ember.png"
+    },
+    {
+      "slug": "dahlia-rook",
+      "name": "Dahlia Rook",
+      "role": "Tätowierte Cabaret-Tänzerin",
+      "batch": 2,
+      "reference_image": "assets/reference/characters/v0.2/dahlia-rook.png"
+    },
+    {
+      "slug": "aurora-vane",
+      "name": "Aurora Vane",
+      "role": "Himmlische Tänzerin",
+      "batch": 2,
+      "reference_image": "assets/reference/characters/v0.2/aurora-vane.png"
+    },
+    {
+      "slug": "ivory-hart",
+      "name": "Ivory Hart",
+      "role": "Mondschein-Tänzerin",
+      "batch": 2,
+      "reference_image": "assets/reference/characters/v0.2/ivory-hart.png"
+    }
+  ]
+}
